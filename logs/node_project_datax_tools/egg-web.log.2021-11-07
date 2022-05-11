@@ -1,0 +1,102 @@
+2021-11-07 00:03:20,150 INFO 56640 [egg-logrotator] app logger reload: got log-reload message
+2021-11-07 00:19:13,311 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 00:19:13,312 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 00:53:31,608 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 01:26:35,308 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 01:26:35,308 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 01:41:48,349 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 01:41:48,349 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 02:12:56,682 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 02:30:52,556 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 02:46:57,273 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 02:46:57,273 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 03:04:48,001 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 03:04:48,001 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 03:52:46,184 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 04:08:44,042 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 04:08:44,044 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 04:24:14,907 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 04:40:58,693 INFO 56640 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/17/f27n4lf96vd40ptvf9v0xgqc0000gn/T/egg-multipart-tmp/node_project_datax_tools"
+2021-11-07 04:40:58,695 INFO 56640 [-/127.0.0.1/-/3ms SCHEDULE /__schedule?path=/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] end
+2021-11-07 05:16:45,267 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 05:33:34,958 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 05:33:34,959 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 05:51:14,676 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 05:51:14,676 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 06:06:27,350 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 06:06:27,350 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 07:15:35,853 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 07:31:20,409 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 07:47:34,080 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 08:04:20,938 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 08:20:30,736 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 08:20:30,736 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 08:36:11,467 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 08:36:11,467 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 08:37:48,139 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 09:36:11,185 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 09:53:40,070 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 09:53:40,070 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 10:27:05,574 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 10:42:39,332 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 10:42:39,332 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 10:59:28,980 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 11:35:00,441 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 11:35:00,441 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 12:09:17,975 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 12:09:17,975 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 12:41:53,408 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 12:59:48,141 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 13:15:49,005 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 13:49:00,320 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 14:04:14,031 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 14:04:14,031 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 14:20:33,930 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 14:20:33,930 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 14:53:51,377 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 14:53:51,377 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 15:11:06,004 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 15:26:11,891 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 15:26:11,892 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 16:32:05,785 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 16:32:05,786 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 16:48:56,521 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 16:48:56,521 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 17:05:54,241 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 17:05:54,241 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 17:19:19,236 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 17:37:21,993 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 17:52:51,778 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 17:52:51,778 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 18:09:49,503 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 18:25:29,274 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 18:25:29,275 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 18:42:36,991 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 18:42:36,991 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 18:59:57,837 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 18:59:57,837 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 19:16:30,574 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 19:16:30,575 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 19:34:02,287 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 19:34:02,287 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 19:50:02,001 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 19:50:02,001 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 20:06:32,869 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 20:06:32,869 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 20:24:36,594 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 20:24:36,594 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 20:40:29,157 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 20:40:29,158 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 20:58:22,872 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 21:14:28,582 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 21:14:28,583 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 21:44:49,942 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 21:44:49,943 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 22:00:55,686 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-07 22:00:55,686 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 22:51:35,730 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-07 23:09:34,435 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 00:15:47,861 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 00:15:47,864 INFO 56640 [egg-logrotator] clean all log before 31 days
+2021-11-08 00:15:47,867 INFO 56640 [egg-logrotator] broadcast log-reload
+2021-11-08 00:15:47,868 INFO 56640 [egg-logrotator] rotate files success by DayRotator, files ["/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools/common-error.log -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools/common-error.log.2021-11-07","/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools/node_project_datax_tools-web.log -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools/node_project_datax_tools-web.log.2021-11-07","/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools/egg-web.log -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools/egg-web.log.2021-11-07","/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools/egg-schedule.log -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools/egg-schedule.log.2021-11-07","/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools/egg-agent.log -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools/egg-agent.log.2021-11-07"]

@@ -1,0 +1,849 @@
+2021-11-08 11:05:53,521 ERROR 67634 [-/127.0.0.1/-/6ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:21:39)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:36:12
+
+pid: 67634
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:06:52,426 ERROR 67693 [-/127.0.0.1/-/7ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:21:39)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:36:12
+
+pid: 67693
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:17:21,139 ERROR 68451 [-/127.0.0.1/-/6ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:21:39)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:36:12
+
+pid: 68451
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:17:59,352 ERROR 68501 [-/127.0.0.1/-/5ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:21:39)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:36:12
+
+pid: 68501
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:18:01,024 ERROR 68501 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:21:39)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:36:12
+
+pid: 68501
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:18:01,658 ERROR 68501 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:21:39)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:36:12
+
+pid: 68501
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:18:01,900 ERROR 68501 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:21:39)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:36:12
+
+pid: 68501
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:18:17,437 ERROR 68529 [-/127.0.0.1/-/4ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:21:39)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:36:12
+
+pid: 68529
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:18:26,449 ERROR 68539 [-/127.0.0.1/-/6ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:21:39)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:36:12
+
+pid: 68539
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:25:41,265 ERROR 69029 [-/127.0.0.1/-/7ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69029
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:25:42,341 ERROR 69029 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69029
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:25:42,868 ERROR 69029 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69029
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:27:30,467 ERROR 69141 [-/127.0.0.1/-/6ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69141
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:27:31,290 ERROR 69141 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69141
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:27:32,003 ERROR 69141 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69141
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:27:32,675 ERROR 69141 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69141
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:27:33,140 ERROR 69141 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69141
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:27:33,440 ERROR 69141 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69141
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:27:33,717 ERROR 69141 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69141
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:27:33,950 ERROR 69141 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69141
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:27:34,200 ERROR 69141 [-/127.0.0.1/-/2ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69141
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:27:34,557 ERROR 69141 [-/127.0.0.1/-/2ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69141
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:27:34,976 ERROR 69141 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69141
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:27:35,357 ERROR 69141 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69141
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:27:35,722 ERROR 69141 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69141
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:27:36,329 ERROR 69141 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69141
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:27:36,895 ERROR 69141 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69141
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:29:10,776 ERROR 69254 [-/127.0.0.1/-/5ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69254
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:29:40,063 ERROR 69308 [-/127.0.0.1/-/7ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69308
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:29:40,904 ERROR 69308 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69308
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:32:49,793 ERROR 69308 [-/127.0.0.1/-/2ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69308
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:32:50,526 ERROR 69308 [-/127.0.0.1/-/2ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69308
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:32:51,081 ERROR 69308 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69308
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 11:32:51,348 ERROR 69308 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'query')
+    at UserService.find (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at HomeController.index (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/home.js:22:41)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 69308
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 14:24:27,033 ERROR 74984 [-/127.0.0.1/-/5ms GET /api/users/findall] nodejs.TypeError: Cannot read properties of undefined (reading 'select')
+    at UserService.findAll (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at usersController.findAll (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/users.js:11:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 74984
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 14:26:18,294 ERROR 75506 [-/127.0.0.1/-/6ms GET /api/users/findall] nodejs.TypeError: Cannot read properties of undefined (reading 'select')
+    at UserService.findAll (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/user.js:8:39)
+    at usersController.findAll (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/users.js:11:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 75506
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 16:23:34,010 ERROR 83387 [-/127.0.0.1/-/16ms GET /api/users/runjob] nodejs.ReferenceError: output is not defined
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:20:19)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 83387
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 16:24:10,329 ERROR 83436 [-/127.0.0.1/-/60ms GET /api/users/runjob] nodejs.Error: Command failed: python datax.py ../job/job.json
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'datax.py': [Errno 2] No such file or directory
+
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'datax.py': [Errno 2] No such file or directory
+
+    at checkExecSyncError (node:child_process:826:11)
+    at execSync (node:child_process:900:15)
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:17:20)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+status: 2
+signal: null
+output: [null,"<Buffer >","<Buffer 2f 53 79 73 74 65 6d 2f 4c 69 62 72 61 72 79 2f 46 72 61 6d 65 77 6f 72 6b 73 2f 50 79 74 68 6f 6e 2e 66 72 61 6d 65 77 6f 72 6b 2f 56 65 72 73 69 6f ...(165) >"]
+pid: 83445
+stdout: "<Buffer >"
+stderr: "<Buffer 2f 53 79 73 74 65 6d 2f 4c 69 62 72 61 72 79 2f 46 72 61 6d 65 77 6f 72 6b 73 2f 50 79 74 68 6f 6e 2e 66 72 61 6d 65 77 6f 72 6b 2f 56 65 72 73 69 6f ...(165) >"
+pid: 83436
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 16:24:11,704 ERROR 83436 [-/127.0.0.1/-/38ms GET /api/users/runjob] nodejs.Error: Command failed: python datax.py ../job/job.json
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'datax.py': [Errno 2] No such file or directory
+
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'datax.py': [Errno 2] No such file or directory
+
+    at checkExecSyncError (node:child_process:826:11)
+    at execSync (node:child_process:900:15)
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:17:20)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+status: 2
+signal: null
+output: [null,"<Buffer >","<Buffer 2f 53 79 73 74 65 6d 2f 4c 69 62 72 61 72 79 2f 46 72 61 6d 65 77 6f 72 6b 73 2f 50 79 74 68 6f 6e 2e 66 72 61 6d 65 77 6f 72 6b 2f 56 65 72 73 69 6f ...(165) >"]
+pid: 83449
+stdout: "<Buffer >"
+stderr: "<Buffer 2f 53 79 73 74 65 6d 2f 4c 69 62 72 61 72 79 2f 46 72 61 6d 65 77 6f 72 6b 73 2f 50 79 74 68 6f 6e 2e 66 72 61 6d 65 77 6f 72 6b 2f 56 65 72 73 69 6f ...(165) >"
+pid: 83436
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 16:33:08,991 ERROR 84022 [-/127.0.0.1/-/49ms GET /api/users/runjob] nodejs.Error: Command failed: python ../../../../datax/bin/datax.py ../../../../datax/job/job.json 
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '../../../../datax/bin/datax.py': [Errno 2] No such file or directory
+
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '../../../../datax/bin/datax.py': [Errno 2] No such file or directory
+
+    at checkExecSyncError (node:child_process:826:11)
+    at execSync (node:child_process:900:15)
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:17:20)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+status: 2
+signal: null
+output: [null,"<Buffer >","<Buffer 2f 53 79 73 74 65 6d 2f 4c 69 62 72 61 72 79 2f 46 72 61 6d 65 77 6f 72 6b 73 2f 50 79 74 68 6f 6e 2e 66 72 61 6d 65 77 6f 72 6b 2f 56 65 72 73 69 6f ...(187) >"]
+pid: 84035
+stdout: "<Buffer >"
+stderr: "<Buffer 2f 53 79 73 74 65 6d 2f 4c 69 62 72 61 72 79 2f 46 72 61 6d 65 77 6f 72 6b 73 2f 50 79 74 68 6f 6e 2e 66 72 61 6d 65 77 6f 72 6b 2f 56 65 72 73 69 6f ...(187) >"
+pid: 84022
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 16:33:46,193 ERROR 84102 [-/127.0.0.1/-/43ms GET /api/users/runjob] nodejs.Error: Command failed: python ../../../datax/bin/datax.py ../../../../datax/job/job.json 
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '../../../datax/bin/datax.py': [Errno 2] No such file or directory
+
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '../../../datax/bin/datax.py': [Errno 2] No such file or directory
+
+    at checkExecSyncError (node:child_process:826:11)
+    at execSync (node:child_process:900:15)
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:17:20)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+status: 2
+signal: null
+output: [null,"<Buffer >","<Buffer 2f 53 79 73 74 65 6d 2f 4c 69 62 72 61 72 79 2f 46 72 61 6d 65 77 6f 72 6b 73 2f 50 79 74 68 6f 6e 2e 66 72 61 6d 65 77 6f 72 6b 2f 56 65 72 73 69 6f ...(184) >"]
+pid: 84110
+stdout: "<Buffer >"
+stderr: "<Buffer 2f 53 79 73 74 65 6d 2f 4c 69 62 72 61 72 79 2f 46 72 61 6d 65 77 6f 72 6b 73 2f 50 79 74 68 6f 6e 2e 66 72 61 6d 65 77 6f 72 6b 2f 56 65 72 73 69 6f ...(184) >"
+pid: 84102
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 16:34:05,588 ERROR 84132 [-/127.0.0.1/-/60ms GET /api/users/runjob] nodejs.Error: Command failed: python ../../../datax/bin/datax.py ../../../datax/job/job.json 
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '../../../datax/bin/datax.py': [Errno 2] No such file or directory
+
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '../../../datax/bin/datax.py': [Errno 2] No such file or directory
+
+    at checkExecSyncError (node:child_process:826:11)
+    at execSync (node:child_process:900:15)
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:17:20)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+status: 2
+signal: null
+output: [null,"<Buffer >","<Buffer 2f 53 79 73 74 65 6d 2f 4c 69 62 72 61 72 79 2f 46 72 61 6d 65 77 6f 72 6b 73 2f 50 79 74 68 6f 6e 2e 66 72 61 6d 65 77 6f 72 6b 2f 56 65 72 73 69 6f ...(184) >"]
+pid: 84137
+stdout: "<Buffer >"
+stderr: "<Buffer 2f 53 79 73 74 65 6d 2f 4c 69 62 72 61 72 79 2f 46 72 61 6d 65 77 6f 72 6b 73 2f 50 79 74 68 6f 6e 2e 66 72 61 6d 65 77 6f 72 6b 2f 56 65 72 73 69 6f ...(184) >"
+pid: 84132
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 16:49:09,331 ERROR 84237 [-/127.0.0.1/-/66ms GET /api/users/runjob] nodejs.Error: Command failed: python ../../datax/bin/datax.py ../../datax/job/job.json 
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '../../datax/bin/datax.py': [Errno 2] No such file or directory
+
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '../../datax/bin/datax.py': [Errno 2] No such file or directory
+
+    at checkExecSyncError (node:child_process:826:11)
+    at execSync (node:child_process:900:15)
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:17:20)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+status: 2
+signal: null
+output: [null,"<Buffer >","<Buffer 2f 53 79 73 74 65 6d 2f 4c 69 62 72 61 72 79 2f 46 72 61 6d 65 77 6f 72 6b 73 2f 50 79 74 68 6f 6e 2e 66 72 61 6d 65 77 6f 72 6b 2f 56 65 72 73 69 6f ...(181) >"]
+pid: 85111
+stdout: "<Buffer >"
+stderr: "<Buffer 2f 53 79 73 74 65 6d 2f 4c 69 62 72 61 72 79 2f 46 72 61 6d 65 77 6f 72 6b 73 2f 50 79 74 68 6f 6e 2e 66 72 61 6d 65 77 6f 72 6b 2f 56 65 72 73 69 6f ...(181) >"
+pid: 84237
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 19:17:45,104 ERROR 93356 [-/127.0.0.1/-/15ms GET /api/users/runjob] nodejs.ReferenceError: code is not defined
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:23:14)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 93356
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 19:19:01,540 ERROR 93356 [-/127.0.0.1/-/9ms GET /api/users/runjob] nodejs.ReferenceError: code is not defined
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:23:14)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 93356
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 19:28:47,157 ERROR 94363 [-/127.0.0.1/-/7ms GET /api/users/runjob] nodejs.ReferenceError: code is not defined
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:22:14)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 94363
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 19:30:21,797 ERROR 94363 [-/127.0.0.1/-/5ms GET /api/users/runjob] nodejs.ReferenceError: code is not defined
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:22:14)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 94363
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 19:30:25,393 ERROR 94363 [-/127.0.0.1/-/2ms GET /api/users/runjob] nodejs.ReferenceError: code is not defined
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:22:14)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 94363
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 19:32:38,055 ERROR 94363 [-/127.0.0.1/-/12ms GET /api/users/runjob] nodejs.ReferenceError: code is not defined
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:22:14)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 94363
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 19:34:57,223 ERROR 94363 [-/127.0.0.1/-/3ms GET /api/users/runjob] nodejs.ReferenceError: code is not defined
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:22:14)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 94363
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 19:35:05,770 ERROR 94363 [-/127.0.0.1/-/6ms GET /api/users/runjob] nodejs.ReferenceError: code is not defined
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:22:14)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 94363
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 19:35:06,531 ERROR 94363 [-/127.0.0.1/-/4ms GET /api/users/runjob] nodejs.ReferenceError: code is not defined
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:22:14)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 94363
+hostname: yabideMacBook-Pro.local
+
+2021-11-08 19:35:07,041 ERROR 94363 [-/127.0.0.1/-/3ms GET /api/users/runjob] nodejs.ReferenceError: code is not defined
+    at UserService.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/service/call.js:22:14)
+    at usersController.RunMysql2DDB (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/controller/call.js:7:42)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:45:18)
+    at /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/koa-compose/index.js:44:32)
+
+pid: 94363
+hostname: yabideMacBook-Pro.local
+

@@ -1,0 +1,294 @@
+{
+  "keys": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/config/config.default.js",
+  "middleware": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/config/config.default.js",
+  "mysql": {
+    "client": {
+      "host": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/config/config.default.js",
+      "port": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/config/config.default.js",
+      "user": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/config/config.default.js",
+      "password": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/config/config.default.js",
+      "database": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/config/config.default.js"
+    },
+    "app": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/config/config.default.js",
+    "agent": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "maxAge": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-watcher/config/config.default.js",
+    "eventSources": {
+      "default": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-static/config/config.prod.js",
+    "maxFiles": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-static/config/config.default.js",
+    "maxAge": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-static/config/config.prod.js"
+  },
+  "view": {
+    "root": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+  "name": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "version": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "description": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "private": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "vue": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "stop": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "url": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "license": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "strict": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "depth": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "env": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "level": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "coreLogger": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "allowDebugAtProd": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "logging": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "port": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg/config/config.default.js"
+}

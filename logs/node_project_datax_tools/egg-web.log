@@ -1,0 +1,1457 @@
+2021-11-08 00:15:47,869 INFO 56640 [egg-logrotator] app logger reload: got log-reload message
+2021-11-08 00:33:26,536 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 01:23:23,390 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-08 01:23:23,390 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 01:39:52,983 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 02:12:35,403 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-08 02:12:35,403 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 02:29:15,345 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 03:05:01,011 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 03:21:25,825 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-08 03:21:25,825 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 03:39:05,691 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-08 03:39:05,691 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 03:56:28,326 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-08 03:56:28,327 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 04:45:56,490 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-08 04:45:56,490 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 04:45:56,599 INFO 56640 [-/127.0.0.1/-/0ms SCHEDULE /__schedule?path=/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/17/f27n4lf96vd40ptvf9v0xgqc0000gn/T/egg-multipart-tmp/node_project_datax_tools"
+2021-11-08 04:45:56,602 INFO 56640 [-/127.0.0.1/-/3ms SCHEDULE /__schedule?path=/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] end
+2021-11-08 05:02:56,330 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 05:20:11,909 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 05:53:17,565 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-08 05:53:17,565 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 06:10:01,266 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 06:26:24,000 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-08 06:26:24,001 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 06:41:32,672 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-08 06:41:32,672 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 07:16:20,873 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-08 07:16:20,873 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 07:33:05,554 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 08:54:48,106 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 09:47:03,310 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-08 09:47:03,311 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 10:02:36,496 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-08 10:02:36,496 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 10:19:40,525 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-08 10:19:40,525 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 10:26:35,985 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 10:30:54,723 WARN 56640 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-08 10:30:54,723 WARN 56640 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 11:05:48,735 INFO 67630 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:05:48,747 INFO 67630 [egg-multipart] stream mode enable
+2021-11-08 11:05:48,812 INFO 67630 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:05:48,813 INFO 67630 [egg-security] use csrf middleware
+2021-11-08 11:05:48,814 INFO 67630 [egg-security] use methodnoallow middleware
+2021-11-08 11:05:48,814 INFO 67630 [egg-security] use noopen middleware
+2021-11-08 11:05:48,814 INFO 67630 [egg-security] use nosniff middleware
+2021-11-08 11:05:48,815 INFO 67630 [egg-security] use xssProtection middleware
+2021-11-08 11:05:48,815 INFO 67630 [egg-security] use xframe middleware
+2021-11-08 11:05:48,815 INFO 67630 [egg-security] use dta middleware
+2021-11-08 11:05:48,815 INFO 67630 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:05:48,820 INFO 67630 [egg:core] dump config after load, 4ms
+2021-11-08 11:05:48,824 INFO 67630 [egg-watcher:application] watcher start success
+2021-11-08 11:05:48,827 INFO 67630 [egg:core] dump config after ready, 2ms
+2021-11-08 11:05:49,774 INFO 67634 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:05:49,797 INFO 67634 [egg-multipart] stream mode enable
+2021-11-08 11:05:49,823 INFO 67634 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:05:49,824 INFO 67634 [egg-security] use csrf middleware
+2021-11-08 11:05:49,824 INFO 67634 [egg-security] use methodnoallow middleware
+2021-11-08 11:05:49,824 INFO 67634 [egg-security] use noopen middleware
+2021-11-08 11:05:49,824 INFO 67634 [egg-security] use nosniff middleware
+2021-11-08 11:05:49,824 INFO 67634 [egg-security] use xssProtection middleware
+2021-11-08 11:05:49,824 INFO 67634 [egg-security] use xframe middleware
+2021-11-08 11:05:49,825 INFO 67634 [egg-security] use dta middleware
+2021-11-08 11:05:49,825 INFO 67634 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:05:49,828 INFO 67634 [egg:core] dump config after load, 2ms
+2021-11-08 11:05:49,832 INFO 67634 [egg-watcher:application] watcher start success
+2021-11-08 11:05:49,835 INFO 67634 [egg:core] dump config after ready, 2ms
+2021-11-08 11:06:45,921 INFO 67693 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:06:45,934 INFO 67693 [egg-multipart] stream mode enable
+2021-11-08 11:06:45,981 INFO 67693 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:06:45,982 INFO 67693 [egg-security] use csrf middleware
+2021-11-08 11:06:45,982 INFO 67693 [egg-security] use methodnoallow middleware
+2021-11-08 11:06:45,982 INFO 67693 [egg-security] use noopen middleware
+2021-11-08 11:06:45,983 INFO 67693 [egg-security] use nosniff middleware
+2021-11-08 11:06:45,983 INFO 67693 [egg-security] use xssProtection middleware
+2021-11-08 11:06:45,983 INFO 67693 [egg-security] use xframe middleware
+2021-11-08 11:06:45,983 INFO 67693 [egg-security] use dta middleware
+2021-11-08 11:06:45,983 INFO 67693 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:06:45,987 INFO 67693 [egg:core] dump config after load, 2ms
+2021-11-08 11:06:45,991 INFO 67693 [egg-watcher:application] watcher start success
+2021-11-08 11:06:45,994 INFO 67693 [egg:core] dump config after ready, 2ms
+2021-11-08 11:07:08,753 INFO 67735 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:07:08,766 INFO 67735 [egg-multipart] stream mode enable
+2021-11-08 11:07:08,808 INFO 67735 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:07:08,809 INFO 67735 [egg-security] use csrf middleware
+2021-11-08 11:07:08,809 INFO 67735 [egg-security] use methodnoallow middleware
+2021-11-08 11:07:08,810 INFO 67735 [egg-security] use noopen middleware
+2021-11-08 11:07:08,810 INFO 67735 [egg-security] use nosniff middleware
+2021-11-08 11:07:08,810 INFO 67735 [egg-security] use xssProtection middleware
+2021-11-08 11:07:08,810 INFO 67735 [egg-security] use xframe middleware
+2021-11-08 11:07:08,811 INFO 67735 [egg-security] use dta middleware
+2021-11-08 11:07:08,811 INFO 67735 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:07:08,815 INFO 67735 [egg:core] dump config after load, 3ms
+2021-11-08 11:07:08,821 INFO 67735 [egg-watcher:application] watcher start success
+2021-11-08 11:07:08,825 INFO 67735 [egg:core] dump config after ready, 3ms
+2021-11-08 11:07:17,222 INFO 67752 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:07:17,234 INFO 67752 [egg-multipart] stream mode enable
+2021-11-08 11:07:17,274 INFO 67752 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:07:17,275 INFO 67752 [egg-security] use csrf middleware
+2021-11-08 11:07:17,275 INFO 67752 [egg-security] use methodnoallow middleware
+2021-11-08 11:07:17,276 INFO 67752 [egg-security] use noopen middleware
+2021-11-08 11:07:17,276 INFO 67752 [egg-security] use nosniff middleware
+2021-11-08 11:07:17,276 INFO 67752 [egg-security] use xssProtection middleware
+2021-11-08 11:07:17,277 INFO 67752 [egg-security] use xframe middleware
+2021-11-08 11:07:17,277 INFO 67752 [egg-security] use dta middleware
+2021-11-08 11:07:17,277 INFO 67752 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:07:17,282 INFO 67752 [egg:core] dump config after load, 3ms
+2021-11-08 11:07:17,290 INFO 67752 [egg-watcher:application] watcher start success
+2021-11-08 11:07:17,295 INFO 67752 [egg:core] dump config after ready, 4ms
+2021-11-08 11:09:18,315 INFO 67890 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:09:18,328 INFO 67890 [egg-multipart] stream mode enable
+2021-11-08 11:09:18,373 INFO 67890 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:09:18,374 INFO 67890 [egg-security] use csrf middleware
+2021-11-08 11:09:18,375 INFO 67890 [egg-security] use methodnoallow middleware
+2021-11-08 11:09:18,375 INFO 67890 [egg-security] use noopen middleware
+2021-11-08 11:09:18,375 INFO 67890 [egg-security] use nosniff middleware
+2021-11-08 11:09:18,375 INFO 67890 [egg-security] use xssProtection middleware
+2021-11-08 11:09:18,376 INFO 67890 [egg-security] use xframe middleware
+2021-11-08 11:09:18,376 INFO 67890 [egg-security] use dta middleware
+2021-11-08 11:09:18,376 INFO 67890 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:09:18,379 INFO 67890 [egg:core] dump config after load, 2ms
+2021-11-08 11:09:18,383 INFO 67890 [egg-watcher:application] watcher start success
+2021-11-08 11:09:18,386 INFO 67890 [egg:core] dump config after ready, 2ms
+2021-11-08 11:17:18,693 INFO 68451 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:17:18,705 INFO 68451 [egg-multipart] stream mode enable
+2021-11-08 11:17:18,754 INFO 68451 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:17:18,755 INFO 68451 [egg-security] use csrf middleware
+2021-11-08 11:17:18,755 INFO 68451 [egg-security] use methodnoallow middleware
+2021-11-08 11:17:18,756 INFO 68451 [egg-security] use noopen middleware
+2021-11-08 11:17:18,756 INFO 68451 [egg-security] use nosniff middleware
+2021-11-08 11:17:18,756 INFO 68451 [egg-security] use xssProtection middleware
+2021-11-08 11:17:18,757 INFO 68451 [egg-security] use xframe middleware
+2021-11-08 11:17:18,757 INFO 68451 [egg-security] use dta middleware
+2021-11-08 11:17:18,757 INFO 68451 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:17:18,760 INFO 68451 [egg:core] dump config after load, 2ms
+2021-11-08 11:17:18,765 INFO 68451 [egg-watcher:application] watcher start success
+2021-11-08 11:17:18,768 INFO 68451 [egg:core] dump config after ready, 2ms
+2021-11-08 11:17:57,051 INFO 68501 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:17:57,063 INFO 68501 [egg-multipart] stream mode enable
+2021-11-08 11:17:57,099 INFO 68501 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:17:57,100 INFO 68501 [egg-security] use csrf middleware
+2021-11-08 11:17:57,101 INFO 68501 [egg-security] use methodnoallow middleware
+2021-11-08 11:17:57,101 INFO 68501 [egg-security] use noopen middleware
+2021-11-08 11:17:57,101 INFO 68501 [egg-security] use nosniff middleware
+2021-11-08 11:17:57,102 INFO 68501 [egg-security] use xssProtection middleware
+2021-11-08 11:17:57,102 INFO 68501 [egg-security] use xframe middleware
+2021-11-08 11:17:57,102 INFO 68501 [egg-security] use dta middleware
+2021-11-08 11:17:57,102 INFO 68501 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:17:57,105 INFO 68501 [egg:core] dump config after load, 1ms
+2021-11-08 11:17:57,109 INFO 68501 [egg-watcher:application] watcher start success
+2021-11-08 11:17:57,112 INFO 68501 [egg:core] dump config after ready, 2ms
+2021-11-08 11:18:15,956 INFO 68529 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:18:15,980 INFO 68529 [egg-multipart] stream mode enable
+2021-11-08 11:18:16,031 INFO 68529 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:18:16,032 INFO 68529 [egg-security] use csrf middleware
+2021-11-08 11:18:16,032 INFO 68529 [egg-security] use methodnoallow middleware
+2021-11-08 11:18:16,032 INFO 68529 [egg-security] use noopen middleware
+2021-11-08 11:18:16,033 INFO 68529 [egg-security] use nosniff middleware
+2021-11-08 11:18:16,033 INFO 68529 [egg-security] use xssProtection middleware
+2021-11-08 11:18:16,033 INFO 68529 [egg-security] use xframe middleware
+2021-11-08 11:18:16,034 INFO 68529 [egg-security] use dta middleware
+2021-11-08 11:18:16,034 INFO 68529 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:18:16,037 INFO 68529 [egg:core] dump config after load, 2ms
+2021-11-08 11:18:16,041 INFO 68529 [egg-watcher:application] watcher start success
+2021-11-08 11:18:16,045 INFO 68529 [egg:core] dump config after ready, 3ms
+2021-11-08 11:18:25,211 INFO 68539 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:18:25,224 INFO 68539 [egg-multipart] stream mode enable
+2021-11-08 11:18:25,269 INFO 68539 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:18:25,270 INFO 68539 [egg-security] use csrf middleware
+2021-11-08 11:18:25,272 INFO 68539 [egg-security] use methodnoallow middleware
+2021-11-08 11:18:25,273 INFO 68539 [egg-security] use noopen middleware
+2021-11-08 11:18:25,273 INFO 68539 [egg-security] use nosniff middleware
+2021-11-08 11:18:25,274 INFO 68539 [egg-security] use xssProtection middleware
+2021-11-08 11:18:25,274 INFO 68539 [egg-security] use xframe middleware
+2021-11-08 11:18:25,274 INFO 68539 [egg-security] use dta middleware
+2021-11-08 11:18:25,274 INFO 68539 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:18:25,281 INFO 68539 [egg:core] dump config after load, 5ms
+2021-11-08 11:18:25,286 INFO 68539 [egg-watcher:application] watcher start success
+2021-11-08 11:18:25,288 INFO 68539 [egg:core] dump config after ready, 2ms
+2021-11-08 11:23:09,699 INFO 68848 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:23:09,714 INFO 68848 [egg-multipart] stream mode enable
+2021-11-08 11:23:09,780 INFO 68848 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:23:09,781 INFO 68848 [egg-security] use csrf middleware
+2021-11-08 11:23:09,781 INFO 68848 [egg-security] use methodnoallow middleware
+2021-11-08 11:23:09,781 INFO 68848 [egg-security] use noopen middleware
+2021-11-08 11:23:09,782 INFO 68848 [egg-security] use nosniff middleware
+2021-11-08 11:23:09,782 INFO 68848 [egg-security] use xssProtection middleware
+2021-11-08 11:23:09,782 INFO 68848 [egg-security] use xframe middleware
+2021-11-08 11:23:09,783 INFO 68848 [egg-security] use dta middleware
+2021-11-08 11:23:09,783 INFO 68848 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:23:09,787 INFO 68848 [egg:core] dump config after load, 2ms
+2021-11-08 11:23:09,791 INFO 68848 [egg-watcher:application] watcher start success
+2021-11-08 11:23:09,795 INFO 68848 [egg:core] dump config after ready, 3ms
+2021-11-08 11:23:29,302 INFO 68880 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:23:29,314 INFO 68880 [egg-multipart] stream mode enable
+2021-11-08 11:23:29,357 INFO 68880 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:23:29,358 INFO 68880 [egg-security] use csrf middleware
+2021-11-08 11:23:29,358 INFO 68880 [egg-security] use methodnoallow middleware
+2021-11-08 11:23:29,358 INFO 68880 [egg-security] use noopen middleware
+2021-11-08 11:23:29,359 INFO 68880 [egg-security] use nosniff middleware
+2021-11-08 11:23:29,359 INFO 68880 [egg-security] use xssProtection middleware
+2021-11-08 11:23:29,359 INFO 68880 [egg-security] use xframe middleware
+2021-11-08 11:23:29,359 INFO 68880 [egg-security] use dta middleware
+2021-11-08 11:23:29,359 INFO 68880 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:23:29,363 INFO 68880 [egg:core] dump config after load, 2ms
+2021-11-08 11:23:29,367 INFO 68880 [egg-watcher:application] watcher start success
+2021-11-08 11:23:29,370 INFO 68880 [egg:core] dump config after ready, 2ms
+2021-11-08 11:24:52,871 INFO 68971 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:24:52,889 INFO 68971 [egg-multipart] stream mode enable
+2021-11-08 11:24:52,940 INFO 68971 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:24:52,940 INFO 68971 [egg-security] use csrf middleware
+2021-11-08 11:24:52,941 INFO 68971 [egg-security] use methodnoallow middleware
+2021-11-08 11:24:52,941 INFO 68971 [egg-security] use noopen middleware
+2021-11-08 11:24:52,941 INFO 68971 [egg-security] use nosniff middleware
+2021-11-08 11:24:52,942 INFO 68971 [egg-security] use xssProtection middleware
+2021-11-08 11:24:52,942 INFO 68971 [egg-security] use xframe middleware
+2021-11-08 11:24:52,942 INFO 68971 [egg-security] use dta middleware
+2021-11-08 11:24:52,942 INFO 68971 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:24:52,947 INFO 68971 [egg:core] dump config after load, 3ms
+2021-11-08 11:24:52,951 INFO 68971 [egg-watcher:application] watcher start success
+2021-11-08 11:24:52,954 INFO 68971 [egg:core] dump config after ready, 2ms
+2021-11-08 11:25:35,924 INFO 69022 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:25:35,937 INFO 69022 [egg-multipart] stream mode enable
+2021-11-08 11:25:35,980 INFO 69022 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:25:35,981 INFO 69022 [egg-security] use csrf middleware
+2021-11-08 11:25:35,982 INFO 69022 [egg-security] use methodnoallow middleware
+2021-11-08 11:25:35,982 INFO 69022 [egg-security] use noopen middleware
+2021-11-08 11:25:35,982 INFO 69022 [egg-security] use nosniff middleware
+2021-11-08 11:25:35,982 INFO 69022 [egg-security] use xssProtection middleware
+2021-11-08 11:25:35,983 INFO 69022 [egg-security] use xframe middleware
+2021-11-08 11:25:35,983 INFO 69022 [egg-security] use dta middleware
+2021-11-08 11:25:35,983 INFO 69022 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:25:35,986 INFO 69022 [egg:core] dump config after load, 2ms
+2021-11-08 11:25:35,990 INFO 69022 [egg-watcher:application] watcher start success
+2021-11-08 11:25:35,993 INFO 69022 [egg:core] dump config after ready, 2ms
+2021-11-08 11:25:37,917 INFO 69029 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:25:37,927 INFO 69029 [egg-multipart] stream mode enable
+2021-11-08 11:25:37,952 INFO 69029 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:25:37,952 INFO 69029 [egg-security] use csrf middleware
+2021-11-08 11:25:37,953 INFO 69029 [egg-security] use methodnoallow middleware
+2021-11-08 11:25:37,953 INFO 69029 [egg-security] use noopen middleware
+2021-11-08 11:25:37,953 INFO 69029 [egg-security] use nosniff middleware
+2021-11-08 11:25:37,953 INFO 69029 [egg-security] use xssProtection middleware
+2021-11-08 11:25:37,953 INFO 69029 [egg-security] use xframe middleware
+2021-11-08 11:25:37,953 INFO 69029 [egg-security] use dta middleware
+2021-11-08 11:25:37,953 INFO 69029 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:25:37,957 INFO 69029 [egg:core] dump config after load, 2ms
+2021-11-08 11:25:37,961 INFO 69029 [egg-watcher:application] watcher start success
+2021-11-08 11:25:37,963 INFO 69029 [egg:core] dump config after ready, 2ms
+2021-11-08 11:27:24,442 INFO 69141 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:27:24,461 INFO 69141 [egg-multipart] stream mode enable
+2021-11-08 11:27:24,514 INFO 69141 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:27:24,515 INFO 69141 [egg-security] use csrf middleware
+2021-11-08 11:27:24,516 INFO 69141 [egg-security] use methodnoallow middleware
+2021-11-08 11:27:24,516 INFO 69141 [egg-security] use noopen middleware
+2021-11-08 11:27:24,516 INFO 69141 [egg-security] use nosniff middleware
+2021-11-08 11:27:24,517 INFO 69141 [egg-security] use xssProtection middleware
+2021-11-08 11:27:24,517 INFO 69141 [egg-security] use xframe middleware
+2021-11-08 11:27:24,517 INFO 69141 [egg-security] use dta middleware
+2021-11-08 11:27:24,517 INFO 69141 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:27:24,521 INFO 69141 [egg:core] dump config after load, 2ms
+2021-11-08 11:27:24,526 INFO 69141 [egg-watcher:application] watcher start success
+2021-11-08 11:27:24,529 INFO 69141 [egg:core] dump config after ready, 2ms
+2021-11-08 11:29:09,715 INFO 69254 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:29:09,732 INFO 69254 [egg-multipart] stream mode enable
+2021-11-08 11:29:09,785 INFO 69254 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:29:09,786 INFO 69254 [egg-security] use csrf middleware
+2021-11-08 11:29:09,787 INFO 69254 [egg-security] use methodnoallow middleware
+2021-11-08 11:29:09,787 INFO 69254 [egg-security] use noopen middleware
+2021-11-08 11:29:09,787 INFO 69254 [egg-security] use nosniff middleware
+2021-11-08 11:29:09,787 INFO 69254 [egg-security] use xssProtection middleware
+2021-11-08 11:29:09,788 INFO 69254 [egg-security] use xframe middleware
+2021-11-08 11:29:09,788 INFO 69254 [egg-security] use dta middleware
+2021-11-08 11:29:09,788 INFO 69254 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:29:09,792 INFO 69254 [egg:core] dump config after load, 3ms
+2021-11-08 11:29:09,796 INFO 69254 [egg-watcher:application] watcher start success
+2021-11-08 11:29:09,799 INFO 69254 [egg:core] dump config after ready, 3ms
+2021-11-08 11:29:36,409 INFO 69308 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:29:36,422 INFO 69308 [egg-multipart] stream mode enable
+2021-11-08 11:29:36,465 INFO 69308 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:29:36,465 INFO 69308 [egg-security] use csrf middleware
+2021-11-08 11:29:36,466 INFO 69308 [egg-security] use methodnoallow middleware
+2021-11-08 11:29:36,466 INFO 69308 [egg-security] use noopen middleware
+2021-11-08 11:29:36,466 INFO 69308 [egg-security] use nosniff middleware
+2021-11-08 11:29:36,467 INFO 69308 [egg-security] use xssProtection middleware
+2021-11-08 11:29:36,467 INFO 69308 [egg-security] use xframe middleware
+2021-11-08 11:29:36,467 INFO 69308 [egg-security] use dta middleware
+2021-11-08 11:29:36,467 INFO 69308 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:29:36,471 INFO 69308 [egg:core] dump config after load, 2ms
+2021-11-08 11:29:36,477 INFO 69308 [egg-watcher:application] watcher start success
+2021-11-08 11:29:36,480 INFO 69308 [egg:core] dump config after ready, 3ms
+2021-11-08 11:42:41,337 INFO 70166 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:42:41,351 INFO 70166 [egg-multipart] stream mode enable
+2021-11-08 11:42:41,401 INFO 70166 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:42:41,402 INFO 70166 [egg-security] use csrf middleware
+2021-11-08 11:42:41,402 INFO 70166 [egg-security] use methodnoallow middleware
+2021-11-08 11:42:41,403 INFO 70166 [egg-security] use noopen middleware
+2021-11-08 11:42:41,403 INFO 70166 [egg-security] use nosniff middleware
+2021-11-08 11:42:41,403 INFO 70166 [egg-security] use xssProtection middleware
+2021-11-08 11:42:41,404 INFO 70166 [egg-security] use xframe middleware
+2021-11-08 11:42:41,404 INFO 70166 [egg-security] use dta middleware
+2021-11-08 11:42:41,404 INFO 70166 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:42:41,408 INFO 70166 [egg:core] dump config after load, 3ms
+2021-11-08 11:42:41,413 INFO 70166 [egg-watcher:application] watcher start success
+2021-11-08 11:42:41,416 INFO 70166 [egg:core] dump config after ready, 2ms
+2021-11-08 11:46:22,716 INFO 70460 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:46:22,729 INFO 70460 [egg-multipart] stream mode enable
+2021-11-08 11:46:22,773 INFO 70460 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:46:22,774 INFO 70460 [egg-security] use csrf middleware
+2021-11-08 11:46:22,775 INFO 70460 [egg-security] use methodnoallow middleware
+2021-11-08 11:46:22,775 INFO 70460 [egg-security] use noopen middleware
+2021-11-08 11:46:22,775 INFO 70460 [egg-security] use nosniff middleware
+2021-11-08 11:46:22,775 INFO 70460 [egg-security] use xssProtection middleware
+2021-11-08 11:46:22,776 INFO 70460 [egg-security] use xframe middleware
+2021-11-08 11:46:22,776 INFO 70460 [egg-security] use dta middleware
+2021-11-08 11:46:22,776 INFO 70460 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:46:22,779 INFO 70460 [egg:core] dump config after load, 2ms
+2021-11-08 11:46:22,783 INFO 70460 [egg-watcher:application] watcher start success
+2021-11-08 11:46:22,786 INFO 70460 [egg:core] dump config after ready, 2ms
+2021-11-08 11:46:43,121 INFO 70497 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:46:43,138 INFO 70497 [egg-multipart] stream mode enable
+2021-11-08 11:46:43,187 INFO 70497 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:46:43,188 INFO 70497 [egg-security] use csrf middleware
+2021-11-08 11:46:43,188 INFO 70497 [egg-security] use methodnoallow middleware
+2021-11-08 11:46:43,189 INFO 70497 [egg-security] use noopen middleware
+2021-11-08 11:46:43,189 INFO 70497 [egg-security] use nosniff middleware
+2021-11-08 11:46:43,190 INFO 70497 [egg-security] use xssProtection middleware
+2021-11-08 11:46:43,190 INFO 70497 [egg-security] use xframe middleware
+2021-11-08 11:46:43,190 INFO 70497 [egg-security] use dta middleware
+2021-11-08 11:46:43,190 INFO 70497 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:46:43,195 INFO 70497 [egg:core] dump config after load, 3ms
+2021-11-08 11:46:43,200 INFO 70497 [egg-watcher:application] watcher start success
+2021-11-08 11:46:43,204 INFO 70497 [egg:core] dump config after ready, 2ms
+2021-11-08 11:48:36,807 INFO 70629 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 11:48:36,821 INFO 70629 [egg-multipart] stream mode enable
+2021-11-08 11:48:36,867 INFO 70629 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 11:48:36,868 INFO 70629 [egg-security] use csrf middleware
+2021-11-08 11:48:36,868 INFO 70629 [egg-security] use methodnoallow middleware
+2021-11-08 11:48:36,868 INFO 70629 [egg-security] use noopen middleware
+2021-11-08 11:48:36,869 INFO 70629 [egg-security] use nosniff middleware
+2021-11-08 11:48:36,869 INFO 70629 [egg-security] use xssProtection middleware
+2021-11-08 11:48:36,869 INFO 70629 [egg-security] use xframe middleware
+2021-11-08 11:48:36,869 INFO 70629 [egg-security] use dta middleware
+2021-11-08 11:48:36,869 INFO 70629 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 11:48:36,873 INFO 70629 [egg:core] dump config after load, 2ms
+2021-11-08 11:48:36,877 INFO 70629 [egg-watcher:application] watcher start success
+2021-11-08 11:48:36,880 INFO 70629 [egg:core] dump config after ready, 2ms
+2021-11-08 13:57:57,078 INFO 73397 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 13:57:57,091 INFO 73397 [egg-multipart] stream mode enable
+2021-11-08 13:57:57,144 INFO 73397 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 13:57:57,145 INFO 73397 [egg-security] use csrf middleware
+2021-11-08 13:57:57,145 INFO 73397 [egg-security] use methodnoallow middleware
+2021-11-08 13:57:57,146 INFO 73397 [egg-security] use noopen middleware
+2021-11-08 13:57:57,146 INFO 73397 [egg-security] use nosniff middleware
+2021-11-08 13:57:57,146 INFO 73397 [egg-security] use xssProtection middleware
+2021-11-08 13:57:57,147 INFO 73397 [egg-security] use xframe middleware
+2021-11-08 13:57:57,147 INFO 73397 [egg-security] use dta middleware
+2021-11-08 13:57:57,147 INFO 73397 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 13:57:57,151 INFO 73397 [egg:core] dump config after load, 2ms
+2021-11-08 13:57:57,158 INFO 73397 [egg-watcher:application] watcher start success
+2021-11-08 13:57:57,161 INFO 73397 [egg:core] dump config after ready, 2ms
+2021-11-08 13:58:12,961 INFO 73431 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 13:58:12,975 INFO 73431 [egg-multipart] stream mode enable
+2021-11-08 13:58:13,025 INFO 73431 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 13:58:13,026 INFO 73431 [egg-security] use csrf middleware
+2021-11-08 13:58:13,026 INFO 73431 [egg-security] use methodnoallow middleware
+2021-11-08 13:58:13,027 INFO 73431 [egg-security] use noopen middleware
+2021-11-08 13:58:13,027 INFO 73431 [egg-security] use nosniff middleware
+2021-11-08 13:58:13,027 INFO 73431 [egg-security] use xssProtection middleware
+2021-11-08 13:58:13,028 INFO 73431 [egg-security] use xframe middleware
+2021-11-08 13:58:13,028 INFO 73431 [egg-security] use dta middleware
+2021-11-08 13:58:13,028 INFO 73431 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 13:58:13,032 INFO 73431 [egg:core] dump config after load, 2ms
+2021-11-08 13:58:13,037 INFO 73431 [egg-watcher:application] watcher start success
+2021-11-08 13:58:13,040 INFO 73431 [egg:core] dump config after ready, 2ms
+2021-11-08 13:59:42,792 INFO 73526 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 13:59:42,807 INFO 73526 [egg-multipart] stream mode enable
+2021-11-08 13:59:42,873 INFO 73526 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 13:59:42,875 INFO 73526 [egg-security] use csrf middleware
+2021-11-08 13:59:42,875 INFO 73526 [egg-security] use methodnoallow middleware
+2021-11-08 13:59:42,875 INFO 73526 [egg-security] use noopen middleware
+2021-11-08 13:59:42,876 INFO 73526 [egg-security] use nosniff middleware
+2021-11-08 13:59:42,876 INFO 73526 [egg-security] use xssProtection middleware
+2021-11-08 13:59:42,877 INFO 73526 [egg-security] use xframe middleware
+2021-11-08 13:59:42,877 INFO 73526 [egg-security] use dta middleware
+2021-11-08 13:59:42,877 INFO 73526 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 13:59:42,883 INFO 73526 [egg:core] dump config after load, 4ms
+2021-11-08 13:59:42,888 INFO 73526 [egg-watcher:application] watcher start success
+2021-11-08 13:59:42,892 INFO 73526 [egg:core] dump config after ready, 3ms
+2021-11-08 14:00:59,878 INFO 73611 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:00:59,893 INFO 73611 [egg-multipart] stream mode enable
+2021-11-08 14:00:59,950 INFO 73611 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:00:59,951 INFO 73611 [egg-security] use csrf middleware
+2021-11-08 14:00:59,952 INFO 73611 [egg-security] use methodnoallow middleware
+2021-11-08 14:00:59,952 INFO 73611 [egg-security] use noopen middleware
+2021-11-08 14:00:59,953 INFO 73611 [egg-security] use nosniff middleware
+2021-11-08 14:00:59,953 INFO 73611 [egg-security] use xssProtection middleware
+2021-11-08 14:00:59,953 INFO 73611 [egg-security] use xframe middleware
+2021-11-08 14:00:59,954 INFO 73611 [egg-security] use dta middleware
+2021-11-08 14:00:59,954 INFO 73611 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:00:59,958 INFO 73611 [egg:core] dump config after load, 2ms
+2021-11-08 14:00:59,963 INFO 73611 [egg-watcher:application] watcher start success
+2021-11-08 14:00:59,966 INFO 73611 [egg:core] dump config after ready, 2ms
+2021-11-08 14:01:27,494 INFO 73665 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:01:27,506 INFO 73665 [egg-multipart] stream mode enable
+2021-11-08 14:01:27,555 INFO 73665 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:01:27,556 INFO 73665 [egg-security] use csrf middleware
+2021-11-08 14:01:27,556 INFO 73665 [egg-security] use methodnoallow middleware
+2021-11-08 14:01:27,557 INFO 73665 [egg-security] use noopen middleware
+2021-11-08 14:01:27,557 INFO 73665 [egg-security] use nosniff middleware
+2021-11-08 14:01:27,557 INFO 73665 [egg-security] use xssProtection middleware
+2021-11-08 14:01:27,558 INFO 73665 [egg-security] use xframe middleware
+2021-11-08 14:01:27,558 INFO 73665 [egg-security] use dta middleware
+2021-11-08 14:01:27,558 INFO 73665 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:01:27,562 INFO 73665 [egg:core] dump config after load, 2ms
+2021-11-08 14:01:27,568 INFO 73665 [egg-watcher:application] watcher start success
+2021-11-08 14:01:27,572 INFO 73665 [egg:core] dump config after ready, 2ms
+2021-11-08 14:01:45,830 INFO 73683 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:01:45,845 INFO 73683 [egg-multipart] stream mode enable
+2021-11-08 14:01:45,902 INFO 73683 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:01:45,903 INFO 73683 [egg-security] use csrf middleware
+2021-11-08 14:01:45,903 INFO 73683 [egg-security] use methodnoallow middleware
+2021-11-08 14:01:45,904 INFO 73683 [egg-security] use noopen middleware
+2021-11-08 14:01:45,904 INFO 73683 [egg-security] use nosniff middleware
+2021-11-08 14:01:45,905 INFO 73683 [egg-security] use xssProtection middleware
+2021-11-08 14:01:45,905 INFO 73683 [egg-security] use xframe middleware
+2021-11-08 14:01:45,905 INFO 73683 [egg-security] use dta middleware
+2021-11-08 14:01:45,905 INFO 73683 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:01:45,911 INFO 73683 [egg:core] dump config after load, 3ms
+2021-11-08 14:01:45,917 INFO 73683 [egg-watcher:application] watcher start success
+2021-11-08 14:01:45,920 INFO 73683 [egg:core] dump config after ready, 3ms
+2021-11-08 14:01:53,592 INFO 73693 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:01:53,604 INFO 73693 [egg-multipart] stream mode enable
+2021-11-08 14:01:53,640 INFO 73693 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:01:53,640 INFO 73693 [egg-security] use csrf middleware
+2021-11-08 14:01:53,641 INFO 73693 [egg-security] use methodnoallow middleware
+2021-11-08 14:01:53,641 INFO 73693 [egg-security] use noopen middleware
+2021-11-08 14:01:53,641 INFO 73693 [egg-security] use nosniff middleware
+2021-11-08 14:01:53,641 INFO 73693 [egg-security] use xssProtection middleware
+2021-11-08 14:01:53,642 INFO 73693 [egg-security] use xframe middleware
+2021-11-08 14:01:53,642 INFO 73693 [egg-security] use dta middleware
+2021-11-08 14:01:53,642 INFO 73693 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:01:53,646 INFO 73693 [egg:core] dump config after load, 2ms
+2021-11-08 14:01:53,650 INFO 73693 [egg-watcher:application] watcher start success
+2021-11-08 14:01:53,653 INFO 73693 [egg:core] dump config after ready, 2ms
+2021-11-08 14:03:10,679 INFO 73802 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:03:10,694 INFO 73802 [egg-multipart] stream mode enable
+2021-11-08 14:03:10,748 INFO 73802 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:03:10,749 INFO 73802 [egg-security] use csrf middleware
+2021-11-08 14:03:10,749 INFO 73802 [egg-security] use methodnoallow middleware
+2021-11-08 14:03:10,750 INFO 73802 [egg-security] use noopen middleware
+2021-11-08 14:03:10,750 INFO 73802 [egg-security] use nosniff middleware
+2021-11-08 14:03:10,750 INFO 73802 [egg-security] use xssProtection middleware
+2021-11-08 14:03:10,751 INFO 73802 [egg-security] use xframe middleware
+2021-11-08 14:03:10,751 INFO 73802 [egg-security] use dta middleware
+2021-11-08 14:03:10,751 INFO 73802 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:03:10,755 INFO 73802 [egg:core] dump config after load, 2ms
+2021-11-08 14:03:10,760 INFO 73802 [egg-watcher:application] watcher start success
+2021-11-08 14:03:10,763 INFO 73802 [egg:core] dump config after ready, 3ms
+2021-11-08 14:04:35,517 INFO 73916 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:04:35,531 INFO 73916 [egg-multipart] stream mode enable
+2021-11-08 14:04:35,589 INFO 73916 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:04:35,590 INFO 73916 [egg-security] use csrf middleware
+2021-11-08 14:04:35,590 INFO 73916 [egg-security] use methodnoallow middleware
+2021-11-08 14:04:35,591 INFO 73916 [egg-security] use noopen middleware
+2021-11-08 14:04:35,591 INFO 73916 [egg-security] use nosniff middleware
+2021-11-08 14:04:35,592 INFO 73916 [egg-security] use xssProtection middleware
+2021-11-08 14:04:35,592 INFO 73916 [egg-security] use xframe middleware
+2021-11-08 14:04:35,592 INFO 73916 [egg-security] use dta middleware
+2021-11-08 14:04:35,592 INFO 73916 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:04:35,597 INFO 73916 [egg:core] dump config after load, 2ms
+2021-11-08 14:04:35,601 INFO 73916 [egg-watcher:application] watcher start success
+2021-11-08 14:04:35,604 INFO 73916 [egg:core] dump config after ready, 2ms
+2021-11-08 14:04:53,872 INFO 73951 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:04:53,886 INFO 73951 [egg-multipart] stream mode enable
+2021-11-08 14:04:53,944 INFO 73951 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:04:53,945 INFO 73951 [egg-security] use csrf middleware
+2021-11-08 14:04:53,945 INFO 73951 [egg-security] use methodnoallow middleware
+2021-11-08 14:04:53,946 INFO 73951 [egg-security] use noopen middleware
+2021-11-08 14:04:53,946 INFO 73951 [egg-security] use nosniff middleware
+2021-11-08 14:04:53,946 INFO 73951 [egg-security] use xssProtection middleware
+2021-11-08 14:04:53,947 INFO 73951 [egg-security] use xframe middleware
+2021-11-08 14:04:53,947 INFO 73951 [egg-security] use dta middleware
+2021-11-08 14:04:53,947 INFO 73951 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:04:53,953 INFO 73951 [egg:core] dump config after load, 2ms
+2021-11-08 14:04:53,961 INFO 73951 [egg-watcher:application] watcher start success
+2021-11-08 14:04:53,965 INFO 73951 [egg:core] dump config after ready, 4ms
+2021-11-08 14:06:29,133 INFO 74059 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:06:29,149 INFO 74059 [egg-multipart] stream mode enable
+2021-11-08 14:06:29,227 INFO 74059 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:06:29,229 INFO 74059 [egg-security] use csrf middleware
+2021-11-08 14:06:29,230 INFO 74059 [egg-security] use methodnoallow middleware
+2021-11-08 14:06:29,230 INFO 74059 [egg-security] use noopen middleware
+2021-11-08 14:06:29,231 INFO 74059 [egg-security] use nosniff middleware
+2021-11-08 14:06:29,231 INFO 74059 [egg-security] use xssProtection middleware
+2021-11-08 14:06:29,232 INFO 74059 [egg-security] use xframe middleware
+2021-11-08 14:06:29,232 INFO 74059 [egg-security] use dta middleware
+2021-11-08 14:06:29,232 INFO 74059 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:06:29,237 INFO 74059 [egg:core] dump config after load, 2ms
+2021-11-08 14:06:29,242 INFO 74059 [egg-watcher:application] watcher start success
+2021-11-08 14:06:29,245 INFO 74059 [egg:core] dump config after ready, 3ms
+2021-11-08 14:07:33,711 INFO 74133 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:07:33,726 INFO 74133 [egg-multipart] stream mode enable
+2021-11-08 14:07:33,792 INFO 74133 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:07:33,793 INFO 74133 [egg-security] use csrf middleware
+2021-11-08 14:07:33,794 INFO 74133 [egg-security] use methodnoallow middleware
+2021-11-08 14:07:33,794 INFO 74133 [egg-security] use noopen middleware
+2021-11-08 14:07:33,795 INFO 74133 [egg-security] use nosniff middleware
+2021-11-08 14:07:33,795 INFO 74133 [egg-security] use xssProtection middleware
+2021-11-08 14:07:33,796 INFO 74133 [egg-security] use xframe middleware
+2021-11-08 14:07:33,796 INFO 74133 [egg-security] use dta middleware
+2021-11-08 14:07:33,796 INFO 74133 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:07:33,803 INFO 74133 [egg:core] dump config after load, 3ms
+2021-11-08 14:07:33,809 INFO 74133 [egg-watcher:application] watcher start success
+2021-11-08 14:07:33,812 INFO 74133 [egg:core] dump config after ready, 2ms
+2021-11-08 14:07:42,204 INFO 74147 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:07:42,221 INFO 74147 [egg-multipart] stream mode enable
+2021-11-08 14:07:42,263 INFO 74147 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:07:42,265 INFO 74147 [egg-security] use csrf middleware
+2021-11-08 14:07:42,265 INFO 74147 [egg-security] use methodnoallow middleware
+2021-11-08 14:07:42,266 INFO 74147 [egg-security] use noopen middleware
+2021-11-08 14:07:42,266 INFO 74147 [egg-security] use nosniff middleware
+2021-11-08 14:07:42,266 INFO 74147 [egg-security] use xssProtection middleware
+2021-11-08 14:07:42,266 INFO 74147 [egg-security] use xframe middleware
+2021-11-08 14:07:42,267 INFO 74147 [egg-security] use dta middleware
+2021-11-08 14:07:42,267 INFO 74147 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:07:42,273 INFO 74147 [egg:core] dump config after load, 3ms
+2021-11-08 14:07:42,278 INFO 74147 [egg-watcher:application] watcher start success
+2021-11-08 14:07:42,282 INFO 74147 [egg:core] dump config after ready, 3ms
+2021-11-08 14:08:39,618 INFO 74208 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:08:39,632 INFO 74208 [egg-multipart] stream mode enable
+2021-11-08 14:08:39,689 INFO 74208 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:08:39,690 INFO 74208 [egg-security] use csrf middleware
+2021-11-08 14:08:39,691 INFO 74208 [egg-security] use methodnoallow middleware
+2021-11-08 14:08:39,691 INFO 74208 [egg-security] use noopen middleware
+2021-11-08 14:08:39,692 INFO 74208 [egg-security] use nosniff middleware
+2021-11-08 14:08:39,692 INFO 74208 [egg-security] use xssProtection middleware
+2021-11-08 14:08:39,692 INFO 74208 [egg-security] use xframe middleware
+2021-11-08 14:08:39,693 INFO 74208 [egg-security] use dta middleware
+2021-11-08 14:08:39,693 INFO 74208 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:08:39,697 INFO 74208 [egg:core] dump config after load, 2ms
+2021-11-08 14:08:39,702 INFO 74208 [egg-watcher:application] watcher start success
+2021-11-08 14:08:39,705 INFO 74208 [egg:core] dump config after ready, 2ms
+2021-11-08 14:08:52,799 INFO 74225 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:08:52,813 INFO 74225 [egg-multipart] stream mode enable
+2021-11-08 14:08:52,868 INFO 74225 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:08:52,869 INFO 74225 [egg-security] use csrf middleware
+2021-11-08 14:08:52,870 INFO 74225 [egg-security] use methodnoallow middleware
+2021-11-08 14:08:52,870 INFO 74225 [egg-security] use noopen middleware
+2021-11-08 14:08:52,871 INFO 74225 [egg-security] use nosniff middleware
+2021-11-08 14:08:52,871 INFO 74225 [egg-security] use xssProtection middleware
+2021-11-08 14:08:52,871 INFO 74225 [egg-security] use xframe middleware
+2021-11-08 14:08:52,872 INFO 74225 [egg-security] use dta middleware
+2021-11-08 14:08:52,872 INFO 74225 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:08:52,876 INFO 74225 [egg:core] dump config after load, 2ms
+2021-11-08 14:08:52,880 INFO 74225 [egg-watcher:application] watcher start success
+2021-11-08 14:08:52,883 INFO 74225 [egg:core] dump config after ready, 2ms
+2021-11-08 14:09:22,082 INFO 74262 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:09:22,097 INFO 74262 [egg-multipart] stream mode enable
+2021-11-08 14:09:22,144 INFO 74262 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:09:22,145 INFO 74262 [egg-security] use csrf middleware
+2021-11-08 14:09:22,146 INFO 74262 [egg-security] use methodnoallow middleware
+2021-11-08 14:09:22,146 INFO 74262 [egg-security] use noopen middleware
+2021-11-08 14:09:22,146 INFO 74262 [egg-security] use nosniff middleware
+2021-11-08 14:09:22,147 INFO 74262 [egg-security] use xssProtection middleware
+2021-11-08 14:09:22,147 INFO 74262 [egg-security] use xframe middleware
+2021-11-08 14:09:22,147 INFO 74262 [egg-security] use dta middleware
+2021-11-08 14:09:22,147 INFO 74262 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:09:22,152 INFO 74262 [egg:core] dump config after load, 2ms
+2021-11-08 14:09:22,156 INFO 74262 [egg-watcher:application] watcher start success
+2021-11-08 14:09:22,158 INFO 74262 [egg:core] dump config after ready, 2ms
+2021-11-08 14:10:14,675 INFO 74309 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:10:14,689 INFO 74309 [egg-multipart] stream mode enable
+2021-11-08 14:10:14,750 INFO 74309 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:10:14,751 INFO 74309 [egg-security] use csrf middleware
+2021-11-08 14:10:14,752 INFO 74309 [egg-security] use methodnoallow middleware
+2021-11-08 14:10:14,752 INFO 74309 [egg-security] use noopen middleware
+2021-11-08 14:10:14,752 INFO 74309 [egg-security] use nosniff middleware
+2021-11-08 14:10:14,753 INFO 74309 [egg-security] use xssProtection middleware
+2021-11-08 14:10:14,753 INFO 74309 [egg-security] use xframe middleware
+2021-11-08 14:10:14,753 INFO 74309 [egg-security] use dta middleware
+2021-11-08 14:10:14,753 INFO 74309 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:10:14,758 INFO 74309 [egg:core] dump config after load, 2ms
+2021-11-08 14:10:14,763 INFO 74309 [egg-watcher:application] watcher start success
+2021-11-08 14:10:14,766 INFO 74309 [egg:core] dump config after ready, 2ms
+2021-11-08 14:10:21,645 INFO 74327 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:10:21,657 INFO 74327 [egg-multipart] stream mode enable
+2021-11-08 14:10:21,691 INFO 74327 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:10:21,691 INFO 74327 [egg-security] use csrf middleware
+2021-11-08 14:10:21,692 INFO 74327 [egg-security] use methodnoallow middleware
+2021-11-08 14:10:21,692 INFO 74327 [egg-security] use noopen middleware
+2021-11-08 14:10:21,692 INFO 74327 [egg-security] use nosniff middleware
+2021-11-08 14:10:21,692 INFO 74327 [egg-security] use xssProtection middleware
+2021-11-08 14:10:21,693 INFO 74327 [egg-security] use xframe middleware
+2021-11-08 14:10:21,693 INFO 74327 [egg-security] use dta middleware
+2021-11-08 14:10:21,693 INFO 74327 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:10:21,697 INFO 74327 [egg:core] dump config after load, 2ms
+2021-11-08 14:10:21,701 INFO 74327 [egg-watcher:application] watcher start success
+2021-11-08 14:10:21,704 INFO 74327 [egg:core] dump config after ready, 2ms
+2021-11-08 14:10:59,397 INFO 74380 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:10:59,409 INFO 74380 [egg-multipart] stream mode enable
+2021-11-08 14:10:59,460 INFO 74380 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:10:59,461 INFO 74380 [egg-security] use csrf middleware
+2021-11-08 14:10:59,462 INFO 74380 [egg-security] use methodnoallow middleware
+2021-11-08 14:10:59,462 INFO 74380 [egg-security] use noopen middleware
+2021-11-08 14:10:59,463 INFO 74380 [egg-security] use nosniff middleware
+2021-11-08 14:10:59,463 INFO 74380 [egg-security] use xssProtection middleware
+2021-11-08 14:10:59,464 INFO 74380 [egg-security] use xframe middleware
+2021-11-08 14:10:59,464 INFO 74380 [egg-security] use dta middleware
+2021-11-08 14:10:59,464 INFO 74380 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:10:59,469 INFO 74380 [egg:core] dump config after load, 2ms
+2021-11-08 14:10:59,475 INFO 74380 [egg-watcher:application] watcher start success
+2021-11-08 14:10:59,479 INFO 74380 [egg:core] dump config after ready, 3ms
+2021-11-08 14:13:17,235 INFO 74532 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:13:17,251 INFO 74532 [egg-multipart] stream mode enable
+2021-11-08 14:13:17,311 INFO 74532 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:13:17,312 INFO 74532 [egg-security] use csrf middleware
+2021-11-08 14:13:17,312 INFO 74532 [egg-security] use methodnoallow middleware
+2021-11-08 14:13:17,312 INFO 74532 [egg-security] use noopen middleware
+2021-11-08 14:13:17,313 INFO 74532 [egg-security] use nosniff middleware
+2021-11-08 14:13:17,313 INFO 74532 [egg-security] use xssProtection middleware
+2021-11-08 14:13:17,314 INFO 74532 [egg-security] use xframe middleware
+2021-11-08 14:13:17,314 INFO 74532 [egg-security] use dta middleware
+2021-11-08 14:13:17,314 INFO 74532 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:13:17,318 INFO 74532 [egg:core] dump config after load, 1ms
+2021-11-08 14:13:17,323 INFO 74532 [egg-watcher:application] watcher start success
+2021-11-08 14:13:17,326 INFO 74532 [egg:core] dump config after ready, 2ms
+2021-11-08 14:14:24,992 INFO 74611 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:14:25,009 INFO 74611 [egg-multipart] stream mode enable
+2021-11-08 14:14:25,074 INFO 74611 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:14:25,076 INFO 74611 [egg-security] use csrf middleware
+2021-11-08 14:14:25,077 INFO 74611 [egg-security] use methodnoallow middleware
+2021-11-08 14:14:25,077 INFO 74611 [egg-security] use noopen middleware
+2021-11-08 14:14:25,078 INFO 74611 [egg-security] use nosniff middleware
+2021-11-08 14:14:25,078 INFO 74611 [egg-security] use xssProtection middleware
+2021-11-08 14:14:25,078 INFO 74611 [egg-security] use xframe middleware
+2021-11-08 14:14:25,079 INFO 74611 [egg-security] use dta middleware
+2021-11-08 14:14:25,079 INFO 74611 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:14:25,084 INFO 74611 [egg:core] dump config after load, 2ms
+2021-11-08 14:14:25,091 INFO 74611 [egg-watcher:application] watcher start success
+2021-11-08 14:14:25,094 INFO 74611 [egg:core] dump config after ready, 2ms
+2021-11-08 14:16:17,709 INFO 74768 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:16:17,723 INFO 74768 [egg-multipart] stream mode enable
+2021-11-08 14:16:17,794 INFO 74768 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:16:17,795 INFO 74768 [egg-security] use csrf middleware
+2021-11-08 14:16:17,796 INFO 74768 [egg-security] use methodnoallow middleware
+2021-11-08 14:16:17,796 INFO 74768 [egg-security] use noopen middleware
+2021-11-08 14:16:17,797 INFO 74768 [egg-security] use nosniff middleware
+2021-11-08 14:16:17,797 INFO 74768 [egg-security] use xssProtection middleware
+2021-11-08 14:16:17,798 INFO 74768 [egg-security] use xframe middleware
+2021-11-08 14:16:17,798 INFO 74768 [egg-security] use dta middleware
+2021-11-08 14:16:17,798 INFO 74768 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:16:17,806 INFO 74768 [egg:core] dump config after load, 4ms
+2021-11-08 14:16:17,812 INFO 74768 [egg-watcher:application] watcher start success
+2021-11-08 14:16:17,816 INFO 74768 [egg:core] dump config after ready, 3ms
+2021-11-08 14:16:29,333 INFO 74782 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:16:29,371 INFO 74782 [egg-multipart] stream mode enable
+2021-11-08 14:16:29,446 INFO 74782 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:16:29,447 INFO 74782 [egg-security] use csrf middleware
+2021-11-08 14:16:29,448 INFO 74782 [egg-security] use methodnoallow middleware
+2021-11-08 14:16:29,448 INFO 74782 [egg-security] use noopen middleware
+2021-11-08 14:16:29,449 INFO 74782 [egg-security] use nosniff middleware
+2021-11-08 14:16:29,449 INFO 74782 [egg-security] use xssProtection middleware
+2021-11-08 14:16:29,450 INFO 74782 [egg-security] use xframe middleware
+2021-11-08 14:16:29,450 INFO 74782 [egg-security] use dta middleware
+2021-11-08 14:16:29,450 INFO 74782 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:16:29,456 INFO 74782 [egg:core] dump config after load, 3ms
+2021-11-08 14:16:29,462 INFO 74782 [egg-watcher:application] watcher start success
+2021-11-08 14:16:29,467 INFO 74782 [egg:core] dump config after ready, 3ms
+2021-11-08 14:16:34,977 INFO 74801 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:16:34,995 INFO 74801 [egg-multipart] stream mode enable
+2021-11-08 14:16:35,026 INFO 74801 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:16:35,027 INFO 74801 [egg-security] use csrf middleware
+2021-11-08 14:16:35,027 INFO 74801 [egg-security] use methodnoallow middleware
+2021-11-08 14:16:35,028 INFO 74801 [egg-security] use noopen middleware
+2021-11-08 14:16:35,028 INFO 74801 [egg-security] use nosniff middleware
+2021-11-08 14:16:35,028 INFO 74801 [egg-security] use xssProtection middleware
+2021-11-08 14:16:35,028 INFO 74801 [egg-security] use xframe middleware
+2021-11-08 14:16:35,029 INFO 74801 [egg-security] use dta middleware
+2021-11-08 14:16:35,029 INFO 74801 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:16:35,033 INFO 74801 [egg:core] dump config after load, 2ms
+2021-11-08 14:16:35,037 INFO 74801 [egg-watcher:application] watcher start success
+2021-11-08 14:16:35,040 INFO 74801 [egg:core] dump config after ready, 2ms
+2021-11-08 14:18:48,762 INFO 74984 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:18:48,775 INFO 74984 [egg-multipart] stream mode enable
+2021-11-08 14:18:48,822 INFO 74984 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:18:48,823 INFO 74984 [egg-security] use csrf middleware
+2021-11-08 14:18:48,824 INFO 74984 [egg-security] use methodnoallow middleware
+2021-11-08 14:18:48,824 INFO 74984 [egg-security] use noopen middleware
+2021-11-08 14:18:48,824 INFO 74984 [egg-security] use nosniff middleware
+2021-11-08 14:18:48,825 INFO 74984 [egg-security] use xssProtection middleware
+2021-11-08 14:18:48,825 INFO 74984 [egg-security] use xframe middleware
+2021-11-08 14:18:48,825 INFO 74984 [egg-security] use dta middleware
+2021-11-08 14:18:48,825 INFO 74984 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:18:48,830 INFO 74984 [egg:core] dump config after load, 2ms
+2021-11-08 14:18:48,835 INFO 74984 [egg-watcher:application] watcher start success
+2021-11-08 14:18:48,838 INFO 74984 [egg:core] dump config after ready, 2ms
+2021-11-08 14:25:15,776 INFO 75435 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:25:15,791 INFO 75435 [egg-multipart] stream mode enable
+2021-11-08 14:25:15,854 INFO 75435 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:25:15,855 INFO 75435 [egg-security] use csrf middleware
+2021-11-08 14:25:15,855 INFO 75435 [egg-security] use methodnoallow middleware
+2021-11-08 14:25:15,856 INFO 75435 [egg-security] use noopen middleware
+2021-11-08 14:25:15,856 INFO 75435 [egg-security] use nosniff middleware
+2021-11-08 14:25:15,856 INFO 75435 [egg-security] use xssProtection middleware
+2021-11-08 14:25:15,857 INFO 75435 [egg-security] use xframe middleware
+2021-11-08 14:25:15,857 INFO 75435 [egg-security] use dta middleware
+2021-11-08 14:25:15,857 INFO 75435 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:25:15,865 INFO 75435 [egg:core] dump config after load, 3ms
+2021-11-08 14:25:15,869 INFO 75435 [egg-watcher:application] watcher start success
+2021-11-08 14:25:15,872 INFO 75435 [egg:core] dump config after ready, 2ms
+2021-11-08 14:26:15,282 INFO 75506 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:26:15,296 INFO 75506 [egg-multipart] stream mode enable
+2021-11-08 14:26:15,352 INFO 75506 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:26:15,353 INFO 75506 [egg-security] use csrf middleware
+2021-11-08 14:26:15,354 INFO 75506 [egg-security] use methodnoallow middleware
+2021-11-08 14:26:15,354 INFO 75506 [egg-security] use noopen middleware
+2021-11-08 14:26:15,354 INFO 75506 [egg-security] use nosniff middleware
+2021-11-08 14:26:15,355 INFO 75506 [egg-security] use xssProtection middleware
+2021-11-08 14:26:15,355 INFO 75506 [egg-security] use xframe middleware
+2021-11-08 14:26:15,355 INFO 75506 [egg-security] use dta middleware
+2021-11-08 14:26:15,355 INFO 75506 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:26:15,361 INFO 75506 [egg:core] dump config after load, 2ms
+2021-11-08 14:26:15,367 INFO 75506 [egg-watcher:application] watcher start success
+2021-11-08 14:26:15,370 INFO 75506 [egg:core] dump config after ready, 2ms
+2021-11-08 14:56:57,279 INFO 77700 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 14:56:57,297 INFO 77700 [egg-multipart] stream mode enable
+2021-11-08 14:56:57,355 INFO 77700 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 14:56:57,357 INFO 77700 [egg-security] use csrf middleware
+2021-11-08 14:56:57,358 INFO 77700 [egg-security] use methodnoallow middleware
+2021-11-08 14:56:57,359 INFO 77700 [egg-security] use noopen middleware
+2021-11-08 14:56:57,360 INFO 77700 [egg-security] use nosniff middleware
+2021-11-08 14:56:57,360 INFO 77700 [egg-security] use xssProtection middleware
+2021-11-08 14:56:57,361 INFO 77700 [egg-security] use xframe middleware
+2021-11-08 14:56:57,361 INFO 77700 [egg-security] use dta middleware
+2021-11-08 14:56:57,361 INFO 77700 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 14:56:57,368 INFO 77700 [egg:core] dump config after load, 3ms
+2021-11-08 14:56:57,377 INFO 77700 [egg-watcher:application] watcher start success
+2021-11-08 14:56:57,381 INFO 77700 [egg:core] dump config after ready, 3ms
+2021-11-08 15:09:36,334 INFO 78519 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:09:36,362 INFO 78519 [egg-multipart] stream mode enable
+2021-11-08 15:09:36,445 INFO 78519 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:09:36,446 INFO 78519 [egg-security] use csrf middleware
+2021-11-08 15:09:36,446 INFO 78519 [egg-security] use methodnoallow middleware
+2021-11-08 15:09:36,447 INFO 78519 [egg-security] use noopen middleware
+2021-11-08 15:09:36,447 INFO 78519 [egg-security] use nosniff middleware
+2021-11-08 15:09:36,447 INFO 78519 [egg-security] use xssProtection middleware
+2021-11-08 15:09:36,448 INFO 78519 [egg-security] use xframe middleware
+2021-11-08 15:09:36,448 INFO 78519 [egg-security] use dta middleware
+2021-11-08 15:09:36,448 INFO 78519 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:09:36,454 INFO 78519 [egg:core] dump config after load, 3ms
+2021-11-08 15:09:36,458 INFO 78519 [egg-watcher:application] watcher start success
+2021-11-08 15:09:36,461 INFO 78519 [egg:core] dump config after ready, 2ms
+2021-11-08 15:26:42,647 INFO 79733 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:26:42,663 INFO 79733 [egg-multipart] stream mode enable
+2021-11-08 15:26:42,721 INFO 79733 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:26:42,722 INFO 79733 [egg-security] use csrf middleware
+2021-11-08 15:26:42,722 INFO 79733 [egg-security] use methodnoallow middleware
+2021-11-08 15:26:42,723 INFO 79733 [egg-security] use noopen middleware
+2021-11-08 15:26:42,723 INFO 79733 [egg-security] use nosniff middleware
+2021-11-08 15:26:42,724 INFO 79733 [egg-security] use xssProtection middleware
+2021-11-08 15:26:42,724 INFO 79733 [egg-security] use xframe middleware
+2021-11-08 15:26:42,724 INFO 79733 [egg-security] use dta middleware
+2021-11-08 15:26:42,724 INFO 79733 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:26:42,733 INFO 79733 [egg:core] dump config after load, 4ms
+2021-11-08 15:26:42,738 INFO 79733 [egg-watcher:application] watcher start success
+2021-11-08 15:26:42,741 INFO 79733 [egg:core] dump config after ready, 2ms
+2021-11-08 15:27:37,270 INFO 79795 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:27:37,286 INFO 79795 [egg-multipart] stream mode enable
+2021-11-08 15:27:37,350 INFO 79795 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:27:37,351 INFO 79795 [egg-security] use csrf middleware
+2021-11-08 15:27:37,351 INFO 79795 [egg-security] use methodnoallow middleware
+2021-11-08 15:27:37,351 INFO 79795 [egg-security] use noopen middleware
+2021-11-08 15:27:37,352 INFO 79795 [egg-security] use nosniff middleware
+2021-11-08 15:27:37,352 INFO 79795 [egg-security] use xssProtection middleware
+2021-11-08 15:27:37,353 INFO 79795 [egg-security] use xframe middleware
+2021-11-08 15:27:37,353 INFO 79795 [egg-security] use dta middleware
+2021-11-08 15:27:37,353 INFO 79795 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:27:37,361 INFO 79795 [egg:core] dump config after load, 4ms
+2021-11-08 15:27:37,367 INFO 79795 [egg-watcher:application] watcher start success
+2021-11-08 15:27:37,370 INFO 79795 [egg:core] dump config after ready, 3ms
+2021-11-08 15:28:49,440 INFO 79885 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:28:49,455 INFO 79885 [egg-multipart] stream mode enable
+2021-11-08 15:28:49,569 INFO 79885 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:28:49,570 INFO 79885 [egg-security] use csrf middleware
+2021-11-08 15:28:49,570 INFO 79885 [egg-security] use methodnoallow middleware
+2021-11-08 15:28:49,570 INFO 79885 [egg-security] use noopen middleware
+2021-11-08 15:28:49,571 INFO 79885 [egg-security] use nosniff middleware
+2021-11-08 15:28:49,571 INFO 79885 [egg-security] use xssProtection middleware
+2021-11-08 15:28:49,571 INFO 79885 [egg-security] use xframe middleware
+2021-11-08 15:28:49,572 INFO 79885 [egg-security] use dta middleware
+2021-11-08 15:28:49,572 INFO 79885 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:28:49,579 INFO 79885 [egg:core] dump config after load, 4ms
+2021-11-08 15:28:49,585 INFO 79885 [egg-watcher:application] watcher start success
+2021-11-08 15:28:49,588 INFO 79885 [egg:core] dump config after ready, 2ms
+2021-11-08 15:29:46,918 INFO 79958 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:29:46,933 INFO 79958 [egg-multipart] stream mode enable
+2021-11-08 15:29:47,032 INFO 79958 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:29:47,033 INFO 79958 [egg-security] use csrf middleware
+2021-11-08 15:29:47,034 INFO 79958 [egg-security] use methodnoallow middleware
+2021-11-08 15:29:47,034 INFO 79958 [egg-security] use noopen middleware
+2021-11-08 15:29:47,034 INFO 79958 [egg-security] use nosniff middleware
+2021-11-08 15:29:47,035 INFO 79958 [egg-security] use xssProtection middleware
+2021-11-08 15:29:47,035 INFO 79958 [egg-security] use xframe middleware
+2021-11-08 15:29:47,036 INFO 79958 [egg-security] use dta middleware
+2021-11-08 15:29:47,036 INFO 79958 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:29:47,045 INFO 79958 [egg:core] dump config after load, 6ms
+2021-11-08 15:29:47,051 INFO 79958 [egg-watcher:application] watcher start success
+2021-11-08 15:29:47,055 INFO 79958 [egg:core] dump config after ready, 3ms
+2021-11-08 15:30:02,744 INFO 79991 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:30:02,757 INFO 79991 [egg-multipart] stream mode enable
+2021-11-08 15:30:02,839 INFO 79991 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:30:02,840 INFO 79991 [egg-security] use csrf middleware
+2021-11-08 15:30:02,841 INFO 79991 [egg-security] use methodnoallow middleware
+2021-11-08 15:30:02,841 INFO 79991 [egg-security] use noopen middleware
+2021-11-08 15:30:02,841 INFO 79991 [egg-security] use nosniff middleware
+2021-11-08 15:30:02,842 INFO 79991 [egg-security] use xssProtection middleware
+2021-11-08 15:30:02,842 INFO 79991 [egg-security] use xframe middleware
+2021-11-08 15:30:02,842 INFO 79991 [egg-security] use dta middleware
+2021-11-08 15:30:02,842 INFO 79991 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:30:02,848 INFO 79991 [egg:core] dump config after load, 2ms
+2021-11-08 15:30:02,854 INFO 79991 [egg-watcher:application] watcher start success
+2021-11-08 15:30:02,858 INFO 79991 [egg:core] dump config after ready, 3ms
+2021-11-08 15:30:27,807 INFO 80020 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:30:27,824 INFO 80020 [egg-multipart] stream mode enable
+2021-11-08 15:30:27,885 INFO 80020 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:30:27,886 INFO 80020 [egg-security] use csrf middleware
+2021-11-08 15:30:27,887 INFO 80020 [egg-security] use methodnoallow middleware
+2021-11-08 15:30:27,887 INFO 80020 [egg-security] use noopen middleware
+2021-11-08 15:30:27,888 INFO 80020 [egg-security] use nosniff middleware
+2021-11-08 15:30:27,888 INFO 80020 [egg-security] use xssProtection middleware
+2021-11-08 15:30:27,888 INFO 80020 [egg-security] use xframe middleware
+2021-11-08 15:30:27,889 INFO 80020 [egg-security] use dta middleware
+2021-11-08 15:30:27,889 INFO 80020 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:30:27,895 INFO 80020 [egg:core] dump config after load, 2ms
+2021-11-08 15:30:27,901 INFO 80020 [egg-watcher:application] watcher start success
+2021-11-08 15:30:27,904 INFO 80020 [egg:core] dump config after ready, 3ms
+2021-11-08 15:30:53,219 INFO 80057 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:30:53,234 INFO 80057 [egg-multipart] stream mode enable
+2021-11-08 15:30:53,285 INFO 80057 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:30:53,286 INFO 80057 [egg-security] use csrf middleware
+2021-11-08 15:30:53,286 INFO 80057 [egg-security] use methodnoallow middleware
+2021-11-08 15:30:53,287 INFO 80057 [egg-security] use noopen middleware
+2021-11-08 15:30:53,287 INFO 80057 [egg-security] use nosniff middleware
+2021-11-08 15:30:53,287 INFO 80057 [egg-security] use xssProtection middleware
+2021-11-08 15:30:53,288 INFO 80057 [egg-security] use xframe middleware
+2021-11-08 15:30:53,288 INFO 80057 [egg-security] use dta middleware
+2021-11-08 15:30:53,288 INFO 80057 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:30:53,294 INFO 80057 [egg:core] dump config after load, 2ms
+2021-11-08 15:30:53,300 INFO 80057 [egg-watcher:application] watcher start success
+2021-11-08 15:30:53,304 INFO 80057 [egg:core] dump config after ready, 4ms
+2021-11-08 15:32:03,892 INFO 80129 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:32:03,907 INFO 80129 [egg-multipart] stream mode enable
+2021-11-08 15:32:03,964 INFO 80129 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:32:03,965 INFO 80129 [egg-security] use csrf middleware
+2021-11-08 15:32:03,966 INFO 80129 [egg-security] use methodnoallow middleware
+2021-11-08 15:32:03,966 INFO 80129 [egg-security] use noopen middleware
+2021-11-08 15:32:03,966 INFO 80129 [egg-security] use nosniff middleware
+2021-11-08 15:32:03,967 INFO 80129 [egg-security] use xssProtection middleware
+2021-11-08 15:32:03,967 INFO 80129 [egg-security] use xframe middleware
+2021-11-08 15:32:03,967 INFO 80129 [egg-security] use dta middleware
+2021-11-08 15:32:03,967 INFO 80129 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:32:03,977 INFO 80129 [egg:core] dump config after load, 4ms
+2021-11-08 15:32:03,984 INFO 80129 [egg-watcher:application] watcher start success
+2021-11-08 15:32:03,988 INFO 80129 [egg:core] dump config after ready, 3ms
+2021-11-08 15:32:52,765 INFO 80186 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:32:52,780 INFO 80186 [egg-multipart] stream mode enable
+2021-11-08 15:32:52,837 INFO 80186 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:32:52,838 INFO 80186 [egg-security] use csrf middleware
+2021-11-08 15:32:52,839 INFO 80186 [egg-security] use methodnoallow middleware
+2021-11-08 15:32:52,839 INFO 80186 [egg-security] use noopen middleware
+2021-11-08 15:32:52,840 INFO 80186 [egg-security] use nosniff middleware
+2021-11-08 15:32:52,840 INFO 80186 [egg-security] use xssProtection middleware
+2021-11-08 15:32:52,840 INFO 80186 [egg-security] use xframe middleware
+2021-11-08 15:32:52,841 INFO 80186 [egg-security] use dta middleware
+2021-11-08 15:32:52,841 INFO 80186 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:32:52,848 INFO 80186 [egg:core] dump config after load, 3ms
+2021-11-08 15:32:52,855 INFO 80186 [egg-watcher:application] watcher start success
+2021-11-08 15:32:52,858 INFO 80186 [egg:core] dump config after ready, 2ms
+2021-11-08 15:32:56,655 INFO 80193 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:32:56,669 INFO 80193 [egg-multipart] stream mode enable
+2021-11-08 15:32:56,705 INFO 80193 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:32:56,706 INFO 80193 [egg-security] use csrf middleware
+2021-11-08 15:32:56,706 INFO 80193 [egg-security] use methodnoallow middleware
+2021-11-08 15:32:56,706 INFO 80193 [egg-security] use noopen middleware
+2021-11-08 15:32:56,707 INFO 80193 [egg-security] use nosniff middleware
+2021-11-08 15:32:56,707 INFO 80193 [egg-security] use xssProtection middleware
+2021-11-08 15:32:56,707 INFO 80193 [egg-security] use xframe middleware
+2021-11-08 15:32:56,707 INFO 80193 [egg-security] use dta middleware
+2021-11-08 15:32:56,707 INFO 80193 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:32:56,713 INFO 80193 [egg:core] dump config after load, 2ms
+2021-11-08 15:32:56,720 INFO 80193 [egg-watcher:application] watcher start success
+2021-11-08 15:32:56,723 INFO 80193 [egg:core] dump config after ready, 2ms
+2021-11-08 15:33:00,673 INFO 80200 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:33:00,686 INFO 80200 [egg-multipart] stream mode enable
+2021-11-08 15:33:00,722 INFO 80200 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:33:00,723 INFO 80200 [egg-security] use csrf middleware
+2021-11-08 15:33:00,723 INFO 80200 [egg-security] use methodnoallow middleware
+2021-11-08 15:33:00,723 INFO 80200 [egg-security] use noopen middleware
+2021-11-08 15:33:00,724 INFO 80200 [egg-security] use nosniff middleware
+2021-11-08 15:33:00,724 INFO 80200 [egg-security] use xssProtection middleware
+2021-11-08 15:33:00,724 INFO 80200 [egg-security] use xframe middleware
+2021-11-08 15:33:00,724 INFO 80200 [egg-security] use dta middleware
+2021-11-08 15:33:00,724 INFO 80200 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:33:00,730 INFO 80200 [egg:core] dump config after load, 2ms
+2021-11-08 15:33:00,736 INFO 80200 [egg-watcher:application] watcher start success
+2021-11-08 15:33:00,739 INFO 80200 [egg:core] dump config after ready, 2ms
+2021-11-08 15:33:09,778 INFO 80218 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:33:09,791 INFO 80218 [egg-multipart] stream mode enable
+2021-11-08 15:33:09,823 INFO 80218 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:33:09,824 INFO 80218 [egg-security] use csrf middleware
+2021-11-08 15:33:09,824 INFO 80218 [egg-security] use methodnoallow middleware
+2021-11-08 15:33:09,824 INFO 80218 [egg-security] use noopen middleware
+2021-11-08 15:33:09,825 INFO 80218 [egg-security] use nosniff middleware
+2021-11-08 15:33:09,825 INFO 80218 [egg-security] use xssProtection middleware
+2021-11-08 15:33:09,825 INFO 80218 [egg-security] use xframe middleware
+2021-11-08 15:33:09,825 INFO 80218 [egg-security] use dta middleware
+2021-11-08 15:33:09,825 INFO 80218 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:33:09,831 INFO 80218 [egg:core] dump config after load, 3ms
+2021-11-08 15:33:09,836 INFO 80218 [egg-watcher:application] watcher start success
+2021-11-08 15:33:09,840 INFO 80218 [egg:core] dump config after ready, 3ms
+2021-11-08 15:33:35,941 INFO 80245 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:33:35,955 INFO 80245 [egg-multipart] stream mode enable
+2021-11-08 15:33:36,015 INFO 80245 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:33:36,016 INFO 80245 [egg-security] use csrf middleware
+2021-11-08 15:33:36,016 INFO 80245 [egg-security] use methodnoallow middleware
+2021-11-08 15:33:36,017 INFO 80245 [egg-security] use noopen middleware
+2021-11-08 15:33:36,017 INFO 80245 [egg-security] use nosniff middleware
+2021-11-08 15:33:36,018 INFO 80245 [egg-security] use xssProtection middleware
+2021-11-08 15:33:36,018 INFO 80245 [egg-security] use xframe middleware
+2021-11-08 15:33:36,019 INFO 80245 [egg-security] use dta middleware
+2021-11-08 15:33:36,019 INFO 80245 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:33:36,026 INFO 80245 [egg:core] dump config after load, 3ms
+2021-11-08 15:33:36,032 INFO 80245 [egg-watcher:application] watcher start success
+2021-11-08 15:33:36,035 INFO 80245 [egg:core] dump config after ready, 2ms
+2021-11-08 15:33:57,626 INFO 80273 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:33:57,644 INFO 80273 [egg-multipart] stream mode enable
+2021-11-08 15:33:57,697 INFO 80273 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:33:57,698 INFO 80273 [egg-security] use csrf middleware
+2021-11-08 15:33:57,699 INFO 80273 [egg-security] use methodnoallow middleware
+2021-11-08 15:33:57,699 INFO 80273 [egg-security] use noopen middleware
+2021-11-08 15:33:57,699 INFO 80273 [egg-security] use nosniff middleware
+2021-11-08 15:33:57,700 INFO 80273 [egg-security] use xssProtection middleware
+2021-11-08 15:33:57,700 INFO 80273 [egg-security] use xframe middleware
+2021-11-08 15:33:57,700 INFO 80273 [egg-security] use dta middleware
+2021-11-08 15:33:57,700 INFO 80273 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:33:57,708 INFO 80273 [egg:core] dump config after load, 3ms
+2021-11-08 15:33:57,713 INFO 80273 [egg-watcher:application] watcher start success
+2021-11-08 15:33:57,716 INFO 80273 [egg:core] dump config after ready, 2ms
+2021-11-08 15:33:58,262 INFO 80277 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:33:58,275 INFO 80277 [egg-multipart] stream mode enable
+2021-11-08 15:33:58,310 INFO 80277 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:33:58,311 INFO 80277 [egg-security] use csrf middleware
+2021-11-08 15:33:58,311 INFO 80277 [egg-security] use methodnoallow middleware
+2021-11-08 15:33:58,312 INFO 80277 [egg-security] use noopen middleware
+2021-11-08 15:33:58,312 INFO 80277 [egg-security] use nosniff middleware
+2021-11-08 15:33:58,312 INFO 80277 [egg-security] use xssProtection middleware
+2021-11-08 15:33:58,312 INFO 80277 [egg-security] use xframe middleware
+2021-11-08 15:33:58,312 INFO 80277 [egg-security] use dta middleware
+2021-11-08 15:33:58,312 INFO 80277 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:33:58,318 INFO 80277 [egg:core] dump config after load, 3ms
+2021-11-08 15:33:58,323 INFO 80277 [egg-watcher:application] watcher start success
+2021-11-08 15:33:58,326 INFO 80277 [egg:core] dump config after ready, 2ms
+2021-11-08 15:34:05,072 INFO 80284 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:34:05,086 INFO 80284 [egg-multipart] stream mode enable
+2021-11-08 15:34:05,120 INFO 80284 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:34:05,121 INFO 80284 [egg-security] use csrf middleware
+2021-11-08 15:34:05,121 INFO 80284 [egg-security] use methodnoallow middleware
+2021-11-08 15:34:05,122 INFO 80284 [egg-security] use noopen middleware
+2021-11-08 15:34:05,122 INFO 80284 [egg-security] use nosniff middleware
+2021-11-08 15:34:05,122 INFO 80284 [egg-security] use xssProtection middleware
+2021-11-08 15:34:05,122 INFO 80284 [egg-security] use xframe middleware
+2021-11-08 15:34:05,122 INFO 80284 [egg-security] use dta middleware
+2021-11-08 15:34:05,122 INFO 80284 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:34:05,127 INFO 80284 [egg:core] dump config after load, 2ms
+2021-11-08 15:34:05,133 INFO 80284 [egg-watcher:application] watcher start success
+2021-11-08 15:34:05,137 INFO 80284 [egg:core] dump config after ready, 3ms
+2021-11-08 15:34:19,578 INFO 80300 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:34:19,593 INFO 80300 [egg-multipart] stream mode enable
+2021-11-08 15:34:19,650 INFO 80300 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:34:19,651 INFO 80300 [egg-security] use csrf middleware
+2021-11-08 15:34:19,651 INFO 80300 [egg-security] use methodnoallow middleware
+2021-11-08 15:34:19,651 INFO 80300 [egg-security] use noopen middleware
+2021-11-08 15:34:19,652 INFO 80300 [egg-security] use nosniff middleware
+2021-11-08 15:34:19,652 INFO 80300 [egg-security] use xssProtection middleware
+2021-11-08 15:34:19,653 INFO 80300 [egg-security] use xframe middleware
+2021-11-08 15:34:19,653 INFO 80300 [egg-security] use dta middleware
+2021-11-08 15:34:19,653 INFO 80300 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:34:19,659 INFO 80300 [egg:core] dump config after load, 2ms
+2021-11-08 15:34:19,664 INFO 80300 [egg-watcher:application] watcher start success
+2021-11-08 15:34:19,667 INFO 80300 [egg:core] dump config after ready, 2ms
+2021-11-08 15:35:16,295 INFO 80369 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:35:16,310 INFO 80369 [egg-multipart] stream mode enable
+2021-11-08 15:35:16,370 INFO 80369 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:35:16,370 INFO 80369 [egg-security] use csrf middleware
+2021-11-08 15:35:16,371 INFO 80369 [egg-security] use methodnoallow middleware
+2021-11-08 15:35:16,371 INFO 80369 [egg-security] use noopen middleware
+2021-11-08 15:35:16,372 INFO 80369 [egg-security] use nosniff middleware
+2021-11-08 15:35:16,372 INFO 80369 [egg-security] use xssProtection middleware
+2021-11-08 15:35:16,372 INFO 80369 [egg-security] use xframe middleware
+2021-11-08 15:35:16,373 INFO 80369 [egg-security] use dta middleware
+2021-11-08 15:35:16,373 INFO 80369 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:35:16,379 INFO 80369 [egg:core] dump config after load, 2ms
+2021-11-08 15:35:16,385 INFO 80369 [egg-watcher:application] watcher start success
+2021-11-08 15:35:16,388 INFO 80369 [egg:core] dump config after ready, 3ms
+2021-11-08 15:35:40,516 INFO 80403 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:35:40,531 INFO 80403 [egg-multipart] stream mode enable
+2021-11-08 15:35:40,585 INFO 80403 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:35:40,586 INFO 80403 [egg-security] use csrf middleware
+2021-11-08 15:35:40,586 INFO 80403 [egg-security] use methodnoallow middleware
+2021-11-08 15:35:40,587 INFO 80403 [egg-security] use noopen middleware
+2021-11-08 15:35:40,587 INFO 80403 [egg-security] use nosniff middleware
+2021-11-08 15:35:40,587 INFO 80403 [egg-security] use xssProtection middleware
+2021-11-08 15:35:40,588 INFO 80403 [egg-security] use xframe middleware
+2021-11-08 15:35:40,588 INFO 80403 [egg-security] use dta middleware
+2021-11-08 15:35:40,588 INFO 80403 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:35:40,595 INFO 80403 [egg:core] dump config after load, 3ms
+2021-11-08 15:35:40,600 INFO 80403 [egg-watcher:application] watcher start success
+2021-11-08 15:35:40,603 INFO 80403 [egg:core] dump config after ready, 2ms
+2021-11-08 15:38:00,934 INFO 80548 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:38:00,949 INFO 80548 [egg-multipart] stream mode enable
+2021-11-08 15:38:01,013 INFO 80548 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:38:01,014 INFO 80548 [egg-security] use csrf middleware
+2021-11-08 15:38:01,014 INFO 80548 [egg-security] use methodnoallow middleware
+2021-11-08 15:38:01,014 INFO 80548 [egg-security] use noopen middleware
+2021-11-08 15:38:01,015 INFO 80548 [egg-security] use nosniff middleware
+2021-11-08 15:38:01,015 INFO 80548 [egg-security] use xssProtection middleware
+2021-11-08 15:38:01,015 INFO 80548 [egg-security] use xframe middleware
+2021-11-08 15:38:01,016 INFO 80548 [egg-security] use dta middleware
+2021-11-08 15:38:01,016 INFO 80548 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:38:01,023 INFO 80548 [egg:core] dump config after load, 3ms
+2021-11-08 15:38:01,029 INFO 80548 [egg-watcher:application] watcher start success
+2021-11-08 15:38:01,032 INFO 80548 [egg:core] dump config after ready, 2ms
+2021-11-08 15:38:30,799 INFO 80580 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:38:30,814 INFO 80580 [egg-multipart] stream mode enable
+2021-11-08 15:38:30,864 INFO 80580 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:38:30,865 INFO 80580 [egg-security] use csrf middleware
+2021-11-08 15:38:30,866 INFO 80580 [egg-security] use methodnoallow middleware
+2021-11-08 15:38:30,866 INFO 80580 [egg-security] use noopen middleware
+2021-11-08 15:38:30,867 INFO 80580 [egg-security] use nosniff middleware
+2021-11-08 15:38:30,867 INFO 80580 [egg-security] use xssProtection middleware
+2021-11-08 15:38:30,867 INFO 80580 [egg-security] use xframe middleware
+2021-11-08 15:38:30,868 INFO 80580 [egg-security] use dta middleware
+2021-11-08 15:38:30,868 INFO 80580 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:38:30,874 INFO 80580 [egg:core] dump config after load, 2ms
+2021-11-08 15:38:30,882 INFO 80580 [egg-watcher:application] watcher start success
+2021-11-08 15:38:30,885 INFO 80580 [egg:core] dump config after ready, 2ms
+2021-11-08 15:40:21,342 INFO 80695 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:40:21,362 INFO 80695 [egg-multipart] stream mode enable
+2021-11-08 15:40:21,425 INFO 80695 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:40:21,426 INFO 80695 [egg-security] use csrf middleware
+2021-11-08 15:40:21,427 INFO 80695 [egg-security] use methodnoallow middleware
+2021-11-08 15:40:21,427 INFO 80695 [egg-security] use noopen middleware
+2021-11-08 15:40:21,428 INFO 80695 [egg-security] use nosniff middleware
+2021-11-08 15:40:21,428 INFO 80695 [egg-security] use xssProtection middleware
+2021-11-08 15:40:21,428 INFO 80695 [egg-security] use xframe middleware
+2021-11-08 15:40:21,429 INFO 80695 [egg-security] use dta middleware
+2021-11-08 15:40:21,429 INFO 80695 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:40:21,440 INFO 80695 [egg:core] dump config after load, 3ms
+2021-11-08 15:40:21,448 INFO 80695 [egg-watcher:application] watcher start success
+2021-11-08 15:40:21,452 INFO 80695 [egg:core] dump config after ready, 2ms
+2021-11-08 15:40:24,657 INFO 80704 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:40:24,670 INFO 80704 [egg-multipart] stream mode enable
+2021-11-08 15:40:24,705 INFO 80704 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:40:24,706 INFO 80704 [egg-security] use csrf middleware
+2021-11-08 15:40:24,707 INFO 80704 [egg-security] use methodnoallow middleware
+2021-11-08 15:40:24,707 INFO 80704 [egg-security] use noopen middleware
+2021-11-08 15:40:24,707 INFO 80704 [egg-security] use nosniff middleware
+2021-11-08 15:40:24,708 INFO 80704 [egg-security] use xssProtection middleware
+2021-11-08 15:40:24,708 INFO 80704 [egg-security] use xframe middleware
+2021-11-08 15:40:24,708 INFO 80704 [egg-security] use dta middleware
+2021-11-08 15:40:24,708 INFO 80704 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:40:24,714 INFO 80704 [egg:core] dump config after load, 2ms
+2021-11-08 15:40:24,719 INFO 80704 [egg-watcher:application] watcher start success
+2021-11-08 15:40:24,722 INFO 80704 [egg:core] dump config after ready, 2ms
+2021-11-08 15:43:00,485 INFO 80891 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:43:00,500 INFO 80891 [egg-multipart] stream mode enable
+2021-11-08 15:43:00,555 INFO 80891 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:43:00,556 INFO 80891 [egg-security] use csrf middleware
+2021-11-08 15:43:00,556 INFO 80891 [egg-security] use methodnoallow middleware
+2021-11-08 15:43:00,557 INFO 80891 [egg-security] use noopen middleware
+2021-11-08 15:43:00,557 INFO 80891 [egg-security] use nosniff middleware
+2021-11-08 15:43:00,557 INFO 80891 [egg-security] use xssProtection middleware
+2021-11-08 15:43:00,558 INFO 80891 [egg-security] use xframe middleware
+2021-11-08 15:43:00,558 INFO 80891 [egg-security] use dta middleware
+2021-11-08 15:43:00,558 INFO 80891 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:43:00,565 INFO 80891 [egg:core] dump config after load, 3ms
+2021-11-08 15:43:00,570 INFO 80891 [egg-watcher:application] watcher start success
+2021-11-08 15:43:00,575 INFO 80891 [egg:core] dump config after ready, 4ms
+2021-11-08 15:43:43,185 INFO 80948 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:43:43,201 INFO 80948 [egg-multipart] stream mode enable
+2021-11-08 15:43:43,261 INFO 80948 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:43:43,263 INFO 80948 [egg-security] use csrf middleware
+2021-11-08 15:43:43,263 INFO 80948 [egg-security] use methodnoallow middleware
+2021-11-08 15:43:43,263 INFO 80948 [egg-security] use noopen middleware
+2021-11-08 15:43:43,264 INFO 80948 [egg-security] use nosniff middleware
+2021-11-08 15:43:43,264 INFO 80948 [egg-security] use xssProtection middleware
+2021-11-08 15:43:43,264 INFO 80948 [egg-security] use xframe middleware
+2021-11-08 15:43:43,265 INFO 80948 [egg-security] use dta middleware
+2021-11-08 15:43:43,265 INFO 80948 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:43:43,271 INFO 80948 [egg:core] dump config after load, 2ms
+2021-11-08 15:43:43,277 INFO 80948 [egg-watcher:application] watcher start success
+2021-11-08 15:43:43,280 INFO 80948 [egg:core] dump config after ready, 2ms
+2021-11-08 15:43:48,817 INFO 80958 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:43:48,830 INFO 80958 [egg-multipart] stream mode enable
+2021-11-08 15:43:48,868 INFO 80958 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:43:48,868 INFO 80958 [egg-security] use csrf middleware
+2021-11-08 15:43:48,869 INFO 80958 [egg-security] use methodnoallow middleware
+2021-11-08 15:43:48,869 INFO 80958 [egg-security] use noopen middleware
+2021-11-08 15:43:48,869 INFO 80958 [egg-security] use nosniff middleware
+2021-11-08 15:43:48,869 INFO 80958 [egg-security] use xssProtection middleware
+2021-11-08 15:43:48,870 INFO 80958 [egg-security] use xframe middleware
+2021-11-08 15:43:48,870 INFO 80958 [egg-security] use dta middleware
+2021-11-08 15:43:48,870 INFO 80958 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:43:48,876 INFO 80958 [egg:core] dump config after load, 2ms
+2021-11-08 15:43:48,881 INFO 80958 [egg-watcher:application] watcher start success
+2021-11-08 15:43:48,885 INFO 80958 [egg:core] dump config after ready, 3ms
+2021-11-08 15:45:20,984 INFO 81088 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:45:20,999 INFO 81088 [egg-multipart] stream mode enable
+2021-11-08 15:45:21,055 INFO 81088 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:45:21,056 INFO 81088 [egg-security] use csrf middleware
+2021-11-08 15:45:21,057 INFO 81088 [egg-security] use methodnoallow middleware
+2021-11-08 15:45:21,057 INFO 81088 [egg-security] use noopen middleware
+2021-11-08 15:45:21,057 INFO 81088 [egg-security] use nosniff middleware
+2021-11-08 15:45:21,058 INFO 81088 [egg-security] use xssProtection middleware
+2021-11-08 15:45:21,058 INFO 81088 [egg-security] use xframe middleware
+2021-11-08 15:45:21,058 INFO 81088 [egg-security] use dta middleware
+2021-11-08 15:45:21,058 INFO 81088 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:45:21,065 INFO 81088 [egg:core] dump config after load, 2ms
+2021-11-08 15:45:21,071 INFO 81088 [egg-watcher:application] watcher start success
+2021-11-08 15:45:21,074 INFO 81088 [egg:core] dump config after ready, 2ms
+2021-11-08 15:47:02,817 INFO 81226 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:47:02,832 INFO 81226 [egg-multipart] stream mode enable
+2021-11-08 15:47:02,896 INFO 81226 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:47:02,897 INFO 81226 [egg-security] use csrf middleware
+2021-11-08 15:47:02,897 INFO 81226 [egg-security] use methodnoallow middleware
+2021-11-08 15:47:02,898 INFO 81226 [egg-security] use noopen middleware
+2021-11-08 15:47:02,898 INFO 81226 [egg-security] use nosniff middleware
+2021-11-08 15:47:02,899 INFO 81226 [egg-security] use xssProtection middleware
+2021-11-08 15:47:02,899 INFO 81226 [egg-security] use xframe middleware
+2021-11-08 15:47:02,899 INFO 81226 [egg-security] use dta middleware
+2021-11-08 15:47:02,899 INFO 81226 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:47:02,906 INFO 81226 [egg:core] dump config after load, 2ms
+2021-11-08 15:47:02,911 INFO 81226 [egg-watcher:application] watcher start success
+2021-11-08 15:47:02,916 INFO 81226 [egg:core] dump config after ready, 3ms
+2021-11-08 15:48:46,467 INFO 81364 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:48:46,482 INFO 81364 [egg-multipart] stream mode enable
+2021-11-08 15:48:46,541 INFO 81364 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:48:46,542 INFO 81364 [egg-security] use csrf middleware
+2021-11-08 15:48:46,542 INFO 81364 [egg-security] use methodnoallow middleware
+2021-11-08 15:48:46,543 INFO 81364 [egg-security] use noopen middleware
+2021-11-08 15:48:46,543 INFO 81364 [egg-security] use nosniff middleware
+2021-11-08 15:48:46,544 INFO 81364 [egg-security] use xssProtection middleware
+2021-11-08 15:48:46,544 INFO 81364 [egg-security] use xframe middleware
+2021-11-08 15:48:46,544 INFO 81364 [egg-security] use dta middleware
+2021-11-08 15:48:46,544 INFO 81364 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:48:46,551 INFO 81364 [egg:core] dump config after load, 3ms
+2021-11-08 15:48:46,557 INFO 81364 [egg-watcher:application] watcher start success
+2021-11-08 15:48:46,560 INFO 81364 [egg:core] dump config after ready, 2ms
+2021-11-08 15:50:28,759 INFO 81474 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:50:28,774 INFO 81474 [egg-multipart] stream mode enable
+2021-11-08 15:50:28,834 INFO 81474 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:50:28,835 INFO 81474 [egg-security] use csrf middleware
+2021-11-08 15:50:28,835 INFO 81474 [egg-security] use methodnoallow middleware
+2021-11-08 15:50:28,836 INFO 81474 [egg-security] use noopen middleware
+2021-11-08 15:50:28,836 INFO 81474 [egg-security] use nosniff middleware
+2021-11-08 15:50:28,836 INFO 81474 [egg-security] use xssProtection middleware
+2021-11-08 15:50:28,837 INFO 81474 [egg-security] use xframe middleware
+2021-11-08 15:50:28,837 INFO 81474 [egg-security] use dta middleware
+2021-11-08 15:50:28,837 INFO 81474 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:50:28,844 INFO 81474 [egg:core] dump config after load, 2ms
+2021-11-08 15:50:28,849 INFO 81474 [egg-watcher:application] watcher start success
+2021-11-08 15:50:28,853 INFO 81474 [egg:core] dump config after ready, 3ms
+2021-11-08 15:50:59,204 INFO 81517 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:50:59,219 INFO 81517 [egg-multipart] stream mode enable
+2021-11-08 15:50:59,273 INFO 81517 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:50:59,274 INFO 81517 [egg-security] use csrf middleware
+2021-11-08 15:50:59,274 INFO 81517 [egg-security] use methodnoallow middleware
+2021-11-08 15:50:59,275 INFO 81517 [egg-security] use noopen middleware
+2021-11-08 15:50:59,275 INFO 81517 [egg-security] use nosniff middleware
+2021-11-08 15:50:59,275 INFO 81517 [egg-security] use xssProtection middleware
+2021-11-08 15:50:59,276 INFO 81517 [egg-security] use xframe middleware
+2021-11-08 15:50:59,276 INFO 81517 [egg-security] use dta middleware
+2021-11-08 15:50:59,276 INFO 81517 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:50:59,281 INFO 81517 [egg:core] dump config after load, 2ms
+2021-11-08 15:50:59,286 INFO 81517 [egg-watcher:application] watcher start success
+2021-11-08 15:50:59,290 INFO 81517 [egg:core] dump config after ready, 3ms
+2021-11-08 15:51:06,386 INFO 81534 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:51:06,400 INFO 81534 [egg-multipart] stream mode enable
+2021-11-08 15:51:06,440 INFO 81534 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:51:06,441 INFO 81534 [egg-security] use csrf middleware
+2021-11-08 15:51:06,441 INFO 81534 [egg-security] use methodnoallow middleware
+2021-11-08 15:51:06,442 INFO 81534 [egg-security] use noopen middleware
+2021-11-08 15:51:06,442 INFO 81534 [egg-security] use nosniff middleware
+2021-11-08 15:51:06,442 INFO 81534 [egg-security] use xssProtection middleware
+2021-11-08 15:51:06,442 INFO 81534 [egg-security] use xframe middleware
+2021-11-08 15:51:06,442 INFO 81534 [egg-security] use dta middleware
+2021-11-08 15:51:06,442 INFO 81534 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:51:06,447 INFO 81534 [egg:core] dump config after load, 2ms
+2021-11-08 15:51:06,452 INFO 81534 [egg-watcher:application] watcher start success
+2021-11-08 15:51:06,455 INFO 81534 [egg:core] dump config after ready, 2ms
+2021-11-08 15:51:25,208 INFO 81556 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:51:25,222 INFO 81556 [egg-multipart] stream mode enable
+2021-11-08 15:51:25,277 INFO 81556 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:51:25,278 INFO 81556 [egg-security] use csrf middleware
+2021-11-08 15:51:25,278 INFO 81556 [egg-security] use methodnoallow middleware
+2021-11-08 15:51:25,279 INFO 81556 [egg-security] use noopen middleware
+2021-11-08 15:51:25,279 INFO 81556 [egg-security] use nosniff middleware
+2021-11-08 15:51:25,279 INFO 81556 [egg-security] use xssProtection middleware
+2021-11-08 15:51:25,280 INFO 81556 [egg-security] use xframe middleware
+2021-11-08 15:51:25,280 INFO 81556 [egg-security] use dta middleware
+2021-11-08 15:51:25,280 INFO 81556 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:51:25,285 INFO 81556 [egg:core] dump config after load, 1ms
+2021-11-08 15:51:25,290 INFO 81556 [egg-watcher:application] watcher start success
+2021-11-08 15:51:25,293 INFO 81556 [egg:core] dump config after ready, 2ms
+2021-11-08 15:51:29,021 INFO 81562 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 15:51:29,039 INFO 81562 [egg-multipart] stream mode enable
+2021-11-08 15:51:29,080 INFO 81562 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 15:51:29,081 INFO 81562 [egg-security] use csrf middleware
+2021-11-08 15:51:29,081 INFO 81562 [egg-security] use methodnoallow middleware
+2021-11-08 15:51:29,082 INFO 81562 [egg-security] use noopen middleware
+2021-11-08 15:51:29,082 INFO 81562 [egg-security] use nosniff middleware
+2021-11-08 15:51:29,083 INFO 81562 [egg-security] use xssProtection middleware
+2021-11-08 15:51:29,083 INFO 81562 [egg-security] use xframe middleware
+2021-11-08 15:51:29,083 INFO 81562 [egg-security] use dta middleware
+2021-11-08 15:51:29,084 INFO 81562 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 15:51:29,091 INFO 81562 [egg:core] dump config after load, 4ms
+2021-11-08 15:51:29,100 INFO 81562 [egg-watcher:application] watcher start success
+2021-11-08 15:51:29,104 INFO 81562 [egg:core] dump config after ready, 3ms
+2021-11-08 16:23:11,240 INFO 83362 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 16:23:11,254 INFO 83362 [egg-multipart] stream mode enable
+2021-11-08 16:23:11,314 INFO 83362 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 16:23:11,315 INFO 83362 [egg-security] use csrf middleware
+2021-11-08 16:23:11,315 INFO 83362 [egg-security] use methodnoallow middleware
+2021-11-08 16:23:11,316 INFO 83362 [egg-security] use noopen middleware
+2021-11-08 16:23:11,316 INFO 83362 [egg-security] use nosniff middleware
+2021-11-08 16:23:11,316 INFO 83362 [egg-security] use xssProtection middleware
+2021-11-08 16:23:11,317 INFO 83362 [egg-security] use xframe middleware
+2021-11-08 16:23:11,317 INFO 83362 [egg-security] use dta middleware
+2021-11-08 16:23:11,317 INFO 83362 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 16:23:11,323 INFO 83362 [egg:core] dump config after load, 2ms
+2021-11-08 16:23:11,328 INFO 83362 [egg-watcher:application] watcher start success
+2021-11-08 16:23:11,331 INFO 83362 [egg:core] dump config after ready, 2ms
+2021-11-08 16:23:28,079 INFO 83387 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 16:23:28,094 INFO 83387 [egg-multipart] stream mode enable
+2021-11-08 16:23:28,147 INFO 83387 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 16:23:28,148 INFO 83387 [egg-security] use csrf middleware
+2021-11-08 16:23:28,148 INFO 83387 [egg-security] use methodnoallow middleware
+2021-11-08 16:23:28,148 INFO 83387 [egg-security] use noopen middleware
+2021-11-08 16:23:28,149 INFO 83387 [egg-security] use nosniff middleware
+2021-11-08 16:23:28,149 INFO 83387 [egg-security] use xssProtection middleware
+2021-11-08 16:23:28,150 INFO 83387 [egg-security] use xframe middleware
+2021-11-08 16:23:28,150 INFO 83387 [egg-security] use dta middleware
+2021-11-08 16:23:28,150 INFO 83387 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 16:23:28,155 INFO 83387 [egg:core] dump config after load, 2ms
+2021-11-08 16:23:28,160 INFO 83387 [egg-watcher:application] watcher start success
+2021-11-08 16:23:28,163 INFO 83387 [egg:core] dump config after ready, 2ms
+2021-11-08 16:24:07,311 INFO 83436 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 16:24:07,326 INFO 83436 [egg-multipart] stream mode enable
+2021-11-08 16:24:07,384 INFO 83436 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 16:24:07,385 INFO 83436 [egg-security] use csrf middleware
+2021-11-08 16:24:07,386 INFO 83436 [egg-security] use methodnoallow middleware
+2021-11-08 16:24:07,386 INFO 83436 [egg-security] use noopen middleware
+2021-11-08 16:24:07,387 INFO 83436 [egg-security] use nosniff middleware
+2021-11-08 16:24:07,387 INFO 83436 [egg-security] use xssProtection middleware
+2021-11-08 16:24:07,387 INFO 83436 [egg-security] use xframe middleware
+2021-11-08 16:24:07,388 INFO 83436 [egg-security] use dta middleware
+2021-11-08 16:24:07,388 INFO 83436 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 16:24:07,394 INFO 83436 [egg:core] dump config after load, 3ms
+2021-11-08 16:24:07,399 INFO 83436 [egg-watcher:application] watcher start success
+2021-11-08 16:24:07,402 INFO 83436 [egg:core] dump config after ready, 2ms
+2021-11-08 16:33:07,201 INFO 84022 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 16:33:07,217 INFO 84022 [egg-multipart] stream mode enable
+2021-11-08 16:33:07,277 INFO 84022 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 16:33:07,278 INFO 84022 [egg-security] use csrf middleware
+2021-11-08 16:33:07,279 INFO 84022 [egg-security] use methodnoallow middleware
+2021-11-08 16:33:07,279 INFO 84022 [egg-security] use noopen middleware
+2021-11-08 16:33:07,279 INFO 84022 [egg-security] use nosniff middleware
+2021-11-08 16:33:07,280 INFO 84022 [egg-security] use xssProtection middleware
+2021-11-08 16:33:07,280 INFO 84022 [egg-security] use xframe middleware
+2021-11-08 16:33:07,281 INFO 84022 [egg-security] use dta middleware
+2021-11-08 16:33:07,281 INFO 84022 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 16:33:07,287 INFO 84022 [egg:core] dump config after load, 2ms
+2021-11-08 16:33:07,292 INFO 84022 [egg-watcher:application] watcher start success
+2021-11-08 16:33:07,296 INFO 84022 [egg:core] dump config after ready, 3ms
+2021-11-08 16:33:44,484 INFO 84102 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 16:33:44,498 INFO 84102 [egg-multipart] stream mode enable
+2021-11-08 16:33:44,548 INFO 84102 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 16:33:44,549 INFO 84102 [egg-security] use csrf middleware
+2021-11-08 16:33:44,550 INFO 84102 [egg-security] use methodnoallow middleware
+2021-11-08 16:33:44,550 INFO 84102 [egg-security] use noopen middleware
+2021-11-08 16:33:44,551 INFO 84102 [egg-security] use nosniff middleware
+2021-11-08 16:33:44,551 INFO 84102 [egg-security] use xssProtection middleware
+2021-11-08 16:33:44,551 INFO 84102 [egg-security] use xframe middleware
+2021-11-08 16:33:44,552 INFO 84102 [egg-security] use dta middleware
+2021-11-08 16:33:44,552 INFO 84102 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 16:33:44,557 INFO 84102 [egg:core] dump config after load, 2ms
+2021-11-08 16:33:44,563 INFO 84102 [egg-watcher:application] watcher start success
+2021-11-08 16:33:44,566 INFO 84102 [egg:core] dump config after ready, 2ms
+2021-11-08 16:33:54,943 INFO 84119 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 16:33:54,969 INFO 84119 [egg-multipart] stream mode enable
+2021-11-08 16:33:55,032 INFO 84119 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 16:33:55,033 INFO 84119 [egg-security] use csrf middleware
+2021-11-08 16:33:55,034 INFO 84119 [egg-security] use methodnoallow middleware
+2021-11-08 16:33:55,034 INFO 84119 [egg-security] use noopen middleware
+2021-11-08 16:33:55,035 INFO 84119 [egg-security] use nosniff middleware
+2021-11-08 16:33:55,035 INFO 84119 [egg-security] use xssProtection middleware
+2021-11-08 16:33:55,036 INFO 84119 [egg-security] use xframe middleware
+2021-11-08 16:33:55,036 INFO 84119 [egg-security] use dta middleware
+2021-11-08 16:33:55,036 INFO 84119 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 16:33:55,047 INFO 84119 [egg:core] dump config after load, 5ms
+2021-11-08 16:33:55,057 INFO 84119 [egg-watcher:application] watcher start success
+2021-11-08 16:33:55,061 INFO 84119 [egg:core] dump config after ready, 3ms
+2021-11-08 16:34:04,363 INFO 84132 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 16:34:04,378 INFO 84132 [egg-multipart] stream mode enable
+2021-11-08 16:34:04,484 INFO 84132 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 16:34:04,485 INFO 84132 [egg-security] use csrf middleware
+2021-11-08 16:34:04,485 INFO 84132 [egg-security] use methodnoallow middleware
+2021-11-08 16:34:04,488 INFO 84132 [egg-security] use noopen middleware
+2021-11-08 16:34:04,488 INFO 84132 [egg-security] use nosniff middleware
+2021-11-08 16:34:04,489 INFO 84132 [egg-security] use xssProtection middleware
+2021-11-08 16:34:04,489 INFO 84132 [egg-security] use xframe middleware
+2021-11-08 16:34:04,489 INFO 84132 [egg-security] use dta middleware
+2021-11-08 16:34:04,489 INFO 84132 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 16:34:04,495 INFO 84132 [egg:core] dump config after load, 2ms
+2021-11-08 16:34:04,501 INFO 84132 [egg-watcher:application] watcher start success
+2021-11-08 16:34:04,505 INFO 84132 [egg:core] dump config after ready, 3ms
+2021-11-08 16:35:33,617 INFO 84237 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 16:35:33,632 INFO 84237 [egg-multipart] stream mode enable
+2021-11-08 16:35:33,690 INFO 84237 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 16:35:33,691 INFO 84237 [egg-security] use csrf middleware
+2021-11-08 16:35:33,692 INFO 84237 [egg-security] use methodnoallow middleware
+2021-11-08 16:35:33,692 INFO 84237 [egg-security] use noopen middleware
+2021-11-08 16:35:33,693 INFO 84237 [egg-security] use nosniff middleware
+2021-11-08 16:35:33,693 INFO 84237 [egg-security] use xssProtection middleware
+2021-11-08 16:35:33,694 INFO 84237 [egg-security] use xframe middleware
+2021-11-08 16:35:33,694 INFO 84237 [egg-security] use dta middleware
+2021-11-08 16:35:33,694 INFO 84237 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 16:35:33,701 INFO 84237 [egg:core] dump config after load, 2ms
+2021-11-08 16:35:33,706 INFO 84237 [egg-watcher:application] watcher start success
+2021-11-08 16:35:33,710 INFO 84237 [egg:core] dump config after ready, 3ms
+2021-11-08 16:49:25,030 INFO 85144 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 16:49:25,047 INFO 85144 [egg-multipart] stream mode enable
+2021-11-08 16:49:25,103 INFO 85144 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 16:49:25,104 INFO 85144 [egg-security] use csrf middleware
+2021-11-08 16:49:25,105 INFO 85144 [egg-security] use methodnoallow middleware
+2021-11-08 16:49:25,105 INFO 85144 [egg-security] use noopen middleware
+2021-11-08 16:49:25,106 INFO 85144 [egg-security] use nosniff middleware
+2021-11-08 16:49:25,106 INFO 85144 [egg-security] use xssProtection middleware
+2021-11-08 16:49:25,106 INFO 85144 [egg-security] use xframe middleware
+2021-11-08 16:49:25,107 INFO 85144 [egg-security] use dta middleware
+2021-11-08 16:49:25,107 INFO 85144 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 16:49:25,112 INFO 85144 [egg:core] dump config after load, 2ms
+2021-11-08 16:49:25,117 INFO 85144 [egg-watcher:application] watcher start success
+2021-11-08 16:49:25,121 INFO 85144 [egg:core] dump config after ready, 2ms
+2021-11-08 17:27:08,066 INFO 87734 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 17:27:08,084 INFO 87734 [egg-multipart] stream mode enable
+2021-11-08 17:27:08,144 INFO 87734 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 17:27:08,145 INFO 87734 [egg-security] use csrf middleware
+2021-11-08 17:27:08,146 INFO 87734 [egg-security] use methodnoallow middleware
+2021-11-08 17:27:08,146 INFO 87734 [egg-security] use noopen middleware
+2021-11-08 17:27:08,147 INFO 87734 [egg-security] use nosniff middleware
+2021-11-08 17:27:08,147 INFO 87734 [egg-security] use xssProtection middleware
+2021-11-08 17:27:08,147 INFO 87734 [egg-security] use xframe middleware
+2021-11-08 17:27:08,148 INFO 87734 [egg-security] use dta middleware
+2021-11-08 17:27:08,148 INFO 87734 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 17:27:08,154 INFO 87734 [egg:core] dump config after load, 3ms
+2021-11-08 17:27:08,159 INFO 87734 [egg-watcher:application] watcher start success
+2021-11-08 17:27:08,164 INFO 87734 [egg:core] dump config after ready, 4ms
+2021-11-08 17:28:18,986 INFO 87832 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 17:28:19,001 INFO 87832 [egg-multipart] stream mode enable
+2021-11-08 17:28:19,058 INFO 87832 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 17:28:19,059 INFO 87832 [egg-security] use csrf middleware
+2021-11-08 17:28:19,059 INFO 87832 [egg-security] use methodnoallow middleware
+2021-11-08 17:28:19,059 INFO 87832 [egg-security] use noopen middleware
+2021-11-08 17:28:19,060 INFO 87832 [egg-security] use nosniff middleware
+2021-11-08 17:28:19,060 INFO 87832 [egg-security] use xssProtection middleware
+2021-11-08 17:28:19,060 INFO 87832 [egg-security] use xframe middleware
+2021-11-08 17:28:19,061 INFO 87832 [egg-security] use dta middleware
+2021-11-08 17:28:19,061 INFO 87832 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 17:28:19,066 INFO 87832 [egg:core] dump config after load, 2ms
+2021-11-08 17:28:19,072 INFO 87832 [egg-watcher:application] watcher start success
+2021-11-08 17:28:19,075 INFO 87832 [egg:core] dump config after ready, 2ms
+2021-11-08 17:29:55,796 WARN 78519 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-11-08 18:09:51,389 WARN 87832 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-11-08 19:17:13,162 INFO 93356 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 19:17:13,174 INFO 93356 [egg-multipart] stream mode enable
+2021-11-08 19:17:13,218 INFO 93356 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 19:17:13,219 INFO 93356 [egg-security] use csrf middleware
+2021-11-08 19:17:13,219 INFO 93356 [egg-security] use methodnoallow middleware
+2021-11-08 19:17:13,219 INFO 93356 [egg-security] use noopen middleware
+2021-11-08 19:17:13,220 INFO 93356 [egg-security] use nosniff middleware
+2021-11-08 19:17:13,220 INFO 93356 [egg-security] use xssProtection middleware
+2021-11-08 19:17:13,220 INFO 93356 [egg-security] use xframe middleware
+2021-11-08 19:17:13,220 INFO 93356 [egg-security] use dta middleware
+2021-11-08 19:17:13,220 INFO 93356 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 19:17:13,226 INFO 93356 [egg:core] dump config after load, 3ms
+2021-11-08 19:17:13,232 INFO 93356 [egg-watcher:application] watcher start success
+2021-11-08 19:17:13,238 INFO 93356 [egg:core] dump config after ready, 6ms
+2021-11-08 19:20:12,773 INFO 93572 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 19:20:12,785 INFO 93572 [egg-multipart] stream mode enable
+2021-11-08 19:20:12,834 INFO 93572 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 19:20:12,835 INFO 93572 [egg-security] use csrf middleware
+2021-11-08 19:20:12,835 INFO 93572 [egg-security] use methodnoallow middleware
+2021-11-08 19:20:12,835 INFO 93572 [egg-security] use noopen middleware
+2021-11-08 19:20:12,836 INFO 93572 [egg-security] use nosniff middleware
+2021-11-08 19:20:12,836 INFO 93572 [egg-security] use xssProtection middleware
+2021-11-08 19:20:12,836 INFO 93572 [egg-security] use xframe middleware
+2021-11-08 19:20:12,837 INFO 93572 [egg-security] use dta middleware
+2021-11-08 19:20:12,837 INFO 93572 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 19:20:12,842 INFO 93572 [egg:core] dump config after load, 3ms
+2021-11-08 19:20:12,846 INFO 93572 [egg-watcher:application] watcher start success
+2021-11-08 19:20:12,849 INFO 93572 [egg:core] dump config after ready, 2ms
+2021-11-08 19:28:39,258 INFO 94363 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 19:28:39,269 INFO 94363 [egg-multipart] stream mode enable
+2021-11-08 19:28:39,308 INFO 94363 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 19:28:39,309 INFO 94363 [egg-security] use csrf middleware
+2021-11-08 19:28:39,309 INFO 94363 [egg-security] use methodnoallow middleware
+2021-11-08 19:28:39,310 INFO 94363 [egg-security] use noopen middleware
+2021-11-08 19:28:39,310 INFO 94363 [egg-security] use nosniff middleware
+2021-11-08 19:28:39,310 INFO 94363 [egg-security] use xssProtection middleware
+2021-11-08 19:28:39,310 INFO 94363 [egg-security] use xframe middleware
+2021-11-08 19:28:39,311 INFO 94363 [egg-security] use dta middleware
+2021-11-08 19:28:39,311 INFO 94363 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 19:28:39,315 INFO 94363 [egg:core] dump config after load, 2ms
+2021-11-08 19:28:39,320 INFO 94363 [egg-watcher:application] watcher start success
+2021-11-08 19:28:39,323 INFO 94363 [egg:core] dump config after ready, 2ms
+2021-11-08 19:36:15,151 INFO 94986 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 19:36:15,163 INFO 94986 [egg-multipart] stream mode enable
+2021-11-08 19:36:15,209 INFO 94986 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 19:36:15,210 INFO 94986 [egg-security] use csrf middleware
+2021-11-08 19:36:15,210 INFO 94986 [egg-security] use methodnoallow middleware
+2021-11-08 19:36:15,210 INFO 94986 [egg-security] use noopen middleware
+2021-11-08 19:36:15,211 INFO 94986 [egg-security] use nosniff middleware
+2021-11-08 19:36:15,211 INFO 94986 [egg-security] use xssProtection middleware
+2021-11-08 19:36:15,211 INFO 94986 [egg-security] use xframe middleware
+2021-11-08 19:36:15,211 INFO 94986 [egg-security] use dta middleware
+2021-11-08 19:36:15,211 INFO 94986 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 19:36:15,216 INFO 94986 [egg:core] dump config after load, 2ms
+2021-11-08 19:36:15,221 INFO 94986 [egg-watcher:application] watcher start success
+2021-11-08 19:36:15,224 INFO 94986 [egg:core] dump config after ready, 3ms
+2021-11-08 19:41:27,659 INFO 95427 [egg:logger] init all loggers with options: {"dir":"/Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/logs/node_project_datax_tools","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_project_datax_tools-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-11-08 19:41:27,671 INFO 95427 [egg-multipart] stream mode enable
+2021-11-08 19:41:27,714 INFO 95427 [egg-static] starting static serve /public/ -> /Users/yabi/Documents/Dev_Files/my_projects/node_project_datax_tools/app/public
+2021-11-08 19:41:27,715 INFO 95427 [egg-security] use csrf middleware
+2021-11-08 19:41:27,716 INFO 95427 [egg-security] use methodnoallow middleware
+2021-11-08 19:41:27,716 INFO 95427 [egg-security] use noopen middleware
+2021-11-08 19:41:27,716 INFO 95427 [egg-security] use nosniff middleware
+2021-11-08 19:41:27,717 INFO 95427 [egg-security] use xssProtection middleware
+2021-11-08 19:41:27,717 INFO 95427 [egg-security] use xframe middleware
+2021-11-08 19:41:27,717 INFO 95427 [egg-security] use dta middleware
+2021-11-08 19:41:27,717 INFO 95427 [egg-security] compose 7 middlewares into one security middleware
+2021-11-08 19:41:27,722 INFO 95427 [egg:core] dump config after load, 2ms
+2021-11-08 19:41:27,726 INFO 95427 [egg-watcher:application] watcher start success
+2021-11-08 19:41:27,729 INFO 95427 [egg:core] dump config after ready, 2ms
